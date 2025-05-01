@@ -1,0 +1,104 @@
+2025-04-14 19:17:57,295 - INFO - Starting Flipkart scraper for search term: 'iphone 13'
+2025-04-14 19:17:57,296 - INFO - Searching Flipkart for 'iphone 13'.
+2025-04-14 19:17:57,296 - INFO - Setting up the Selenium WebDriver.
+2025-04-14 19:18:00,945 - INFO - Loaded URL: https://www.flipkart.com/search?q=iphone%2013
+2025-04-14 19:18:11,264 - ERROR - An error occurred while scraping Flipkart: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104562dec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x000000010455b088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001040a28d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001040e96a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x000000010412a7b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x00000001040dda80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000104527c74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x000000010452af40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x00000001045079fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x000000010452b7bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x00000001044f8af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x000000010454b9a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x000000010454bb2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x000000010455acd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x0000000198711f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019870cd34 thread_start + 8
+
+2025-04-14 19:18:11,361 - INFO - Closed the Selenium WebDriver.
+2025-04-14 19:18:11,361 - WARNING - No products found! Try different search terms.
+2025-04-14 19:20:44,815 - INFO - Starting Flipkart scraper for search term: 'iphone 13'
+2025-04-14 19:20:44,816 - INFO - Searching Flipkart for 'iphone 13'.
+2025-04-14 19:20:44,816 - INFO - Setting up the Selenium WebDriver.
+2025-04-14 19:20:48,846 - INFO - Loaded URL: https://www.flipkart.com/search?q=iphone%2013
+2025-04-14 19:21:07,555 - ERROR - An error occurred while scraping Flipkart: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100ddadec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000100dd3088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x000000010091a8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001009616a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x00000001009a27b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000100955a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000100d9fc74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000100da2f40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000100d7f9fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000100da37bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000100d70af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000100dc39a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000100dc3b2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000100dd2cd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x0000000198711f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019870cd34 thread_start + 8
+
+2025-04-14 19:21:07,653 - INFO - Closed the Selenium WebDriver.
+2025-04-14 19:21:07,653 - WARNING - No products found! Try different search terms.
+2025-04-14 19:24:07,503 - INFO - Starting Flipkart scraper for search term: 'iphone'
+2025-04-14 19:24:07,506 - INFO - Searching Flipkart for 'iphone'.
+2025-04-14 19:24:07,506 - INFO - Setting up the Selenium WebDriver.
+2025-04-14 19:24:10,980 - INFO - Loaded URL: https://www.flipkart.com/search?q=iphone
+2025-04-14 19:24:13,340 - INFO - Product cards are visible on the page.
+2025-04-14 19:24:13,414 - WARNING - No product cards found on this page.
+2025-04-14 19:24:13,505 - INFO - Closed the Selenium WebDriver.
+2025-04-14 19:24:13,505 - WARNING - No products found! Try different search terms.
+2025-04-14 19:24:46,125 - INFO - Starting search for: iphone
+2025-04-14 19:24:46,126 - INFO - Setting up WebDriver...
+2025-04-14 19:24:49,742 - INFO - Loading URL: https://www.flipkart.com/search?q=iphone
+2025-04-14 19:25:07,213 - ERROR - Error during scraping: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104bf2dec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000104beb088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001047328d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001047796a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x00000001047ba7b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x000000010476da80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000104bb7c74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000104bbaf40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000104b979fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000104bbb7bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000104b88af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000104bdb9a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000104bdbb2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000104beacd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x0000000198711f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019870cd34 thread_start + 8
+
+2025-04-14 19:25:07,306 - INFO - WebDriver closed.
+2025-04-14 19:25:27,316 - INFO - Starting search for: clothes
+2025-04-14 19:25:27,318 - INFO - Setting up WebDriver...
+2025-04-14 19:25:31,379 - INFO - Loading URL: https://www.flipkart.com/search?q=clothes
+2025-04-14 19:25:48,811 - ERROR - Error during scraping: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001013cedec cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x00000001013c7088 cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x0000000100f0e8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000100f556a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x0000000100f967b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000100f49a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000101393c74 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000101396f40 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x00000001013739fc cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x00000001013977bc cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000101364af0 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x00000001013b79a0 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x00000001013b7b2c cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x00000001013c6cd4 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x0000000198711f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019870cd34 thread_start + 8
+
+2025-04-14 19:25:48,918 - INFO - WebDriver closed.

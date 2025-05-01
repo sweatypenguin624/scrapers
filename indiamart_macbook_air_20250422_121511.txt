@@ -1,0 +1,222 @@
+Search Query: macbook air
+Timestamp: 2025-04-22 12:15:11
+Total Products Scraped: 20
+
+Scraped Products:
+--------------------------------------------------
+Product 1:
+  Name: 13 Inch 512 GB Apple M3 Macbook Air
+  Product_url: https://www.indiamart.com/proddetail/13-inch-512-gb-apple-m3-macbook-air-2855543450288.html?pos=1&kwd=macbook%20air&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=5
+  Price: 1,54,900
+  Supplier: Futuretech Traders LLP
+  Supplier_url: https://www.indiamart.com/futuretech-traders/?pos=1&kwd=macbook%20air&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Mumbai
+  Rating: 5
+  Product_id: 2855543450288
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/1/484339681/NI/OJ/YC/238591117/61ea9pkz07l-sl1500-250x250.jpg
+--------------------------------------------------
+Product 2:
+  Name: Apple MGND3HNA Macbook Air
+  Product_url: https://www.indiamart.com/proddetail/apple-mgnd3hna-macbook-air-2852045560533.html?pos=2&kwd=macbook%20air&tags=A||||8954.051|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=3
+  Price: 92,900
+  Supplier: Explore Systems
+  Supplier_url: https://www.indiamart.com/explore-systems-chennai/?pos=2&kwd=macbook%20air&tags=A||||8954.051|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Chennai
+  Rating: 3
+  Product_id: 2852045560533
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/8/336101952/TL/EB/ZT/7037877/apple-macbook-air-250x250.jpg
+--------------------------------------------------
+Product 3:
+  Name: Apple Macbook Air 13 MGN63HN
+  Product_url: https://www.indiamart.com/proddetail/macbook-air-13-mgn63hn-23344650455.html?pos=3&kwd=macbook%20air&tags=A||||8741.812|Price|product|||SSnp|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=4
+  Price: 62,500
+  Supplier: Asian Global Solution
+  Supplier_url: https://www.indiamart.com/asianglobalsolutions/?pos=3&kwd=macbook%20air&tags=A||||8741.812|Price|product|||SSnp|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Gurgaon
+  Rating: 4.1
+  Product_id: 23344650455
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2021/4/SP/XU/EZ/15366932/macbook-air-13-250x250.jpg
+--------------------------------------------------
+Product 4:
+  Name: Apple Macbook Air
+  Product_url: https://www.indiamart.com/proddetail/apple-macbook-air-2851359282833.html?pos=4&kwd=macbook%20air&tags=A||||8741.812|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=4
+  Price: 72,999
+  Supplier: Evertech Solutions
+  Supplier_url: https://www.indiamart.com/evertechsolutions/?pos=4&kwd=macbook%20air&tags=A||||8741.812|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Gurugram
+  Rating: 4.5
+  Product_id: 2851359282833
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/6/313025412/IM/HC/QE/53535570/apple-macbook-pro-250x250.PNG
+--------------------------------------------------
+Product 5:
+  Name: Apple Macbook Air
+  Product_url: https://www.indiamart.com/proddetail/apple-macbook-air-2850503398473.html?pos=5&kwd=macbook%20air&tags=A||||8778.123|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=5
+  Price: 21,000
+  Supplier: Agreem E-Waste Recycler Private Limited
+  Supplier_url: https://www.indiamart.com/agreem-e-wasterecycler/?pos=5&kwd=macbook%20air&tags=A||||8778.123|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Noida
+  Rating: 5
+  Product_id: 2850503398473
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/3/294489010/HS/LN/NQ/185607592/computer-waste-scrap-250x250.jpeg
+--------------------------------------------------
+Product 6:
+  Name: Apple Macbook Air
+  Product_url: https://www.indiamart.com/proddetail/apple-macbook-air-2851555134273.html?pos=6&kwd=macbook%20air&tags=A||||8778.123|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=4
+  Price: 99,576
+  Supplier: Q Infosolution
+  Supplier_url: https://www.indiamart.com/q-infosolution/?pos=6&kwd=macbook%20air&tags=A||||8778.123|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Noida
+  Rating: 4.3
+  Product_id: 2851555134273
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/6/317122322/DK/DN/NI/5878940/apple-macbook-air-250x250.PNG
+--------------------------------------------------
+Product 7:
+  Name: Apple Macbook Air
+  Product_url: https://www.indiamart.com/proddetail/apple-macbook-air-2850487652791.html?pos=7&kwd=macbook%20air&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=4
+  Price: 34,999
+  Supplier: Just IT Solutions
+  Supplier_url: https://www.justitsolutions.in/?pos=7&kwd=macbook%20air&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Mumbai
+  Rating: 4.6
+  Product_id: 2850487652791
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/9/453517248/NO/GP/HN/159545318/apple-macbook-air-250x250.jpg
+--------------------------------------------------
+Product 8:
+  Name: 13.3 inches Apple Macbook Air
+  Product_url: https://www.indiamart.com/proddetail/apple-macbook-air-2850967993262.html?pos=8&kwd=macbook%20air&tags=A||||8663.873|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=3
+  Price: 82,000
+  Supplier: Intersect India Private Limited
+  Supplier_url: https://www.indiamart.com/intersectindia/?pos=8&kwd=macbook%20air&tags=A||||8663.873|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Bengaluru
+  Rating: 3.5
+  Product_id: 2850967993262
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/4/303865296/XQ/VA/EO/181675271/apple-macbook-air-250x250.PNG
+--------------------------------------------------
+Product 9:
+  Name: Apple Macbook Air
+  Product_url: https://www.indiamart.com/proddetail/apple-macbook-air-2851550425655.html?pos=9&kwd=macbook%20air&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=4
+  Price: 58,000
+  Supplier: KR Infotech
+  Supplier_url: https://www.indiamart.com/kr-infotech-delhi/?pos=9&kwd=macbook%20air&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: New Delhi
+  Rating: 4.1
+  Product_id: 2851550425655
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/6/316931951/GQ/UL/US/16349408/apple-macbook-air-250x250.PNG
+--------------------------------------------------
+Product 10:
+  Name: Apple Macbook Air, M2
+  Product_url: https://www.indiamart.com/proddetail/apple-macbook-air-2853322803897.html?pos=10&kwd=macbook%20air&tags=A||||8741.812|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=4
+  Price: 20,000
+  Supplier: Green PC World Private Limited
+  Supplier_url: https://www.indiamart.com/greenpcworld/?pos=10&kwd=macbook%20air&tags=A||||8741.812|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:13095|com-cf:nl|ptrs:na|mc:182487|cat:57|qry_typ:P|lang:en|flavl:0-7|rtn:0-0-0-0-2-6-2|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Gurugram
+  Rating: 4.1
+  Product_id: 2853322803897
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/1/381182101/AN/JY/YF/42173915/apple-macbook-air-250x250.webp
+--------------------------------------------------
+Product 11:
+  Name: Apple Macbook Air
+  Product_url: https://www.indiamart.com/proddetail/apple-macbook-air-23681382730.html?pos=11&kwd=macbook%20air&tags=A||||8741.812||product|||SSnp|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=4
+  Supplier: RAPID INFOTECH
+  Supplier_url: https://www.indiamart.com/rapid-infotech/?pos=11&kwd=macbook%20air&tags=A||||8741.812||product|||SSnp|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Gurgaon
+  Rating: 4.7
+  Product_id: 23681382730
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2021/7/ZT/WV/AW/25035125/apple-macbook-air-250x250.jpg
+--------------------------------------------------
+Product 12:
+  Name: Apple Macbook Air
+  Product_url: https://www.indiamart.com/proddetail/apple-macbook-air-2850144524455.html?pos=12&kwd=macbook%20air&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=4
+  Price: 74,000
+  Supplier: Lakshya Infotech
+  Supplier_url: https://www.indiamart.com/lakshya-infotechmumbai/?pos=12&kwd=macbook%20air&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Mumbai
+  Rating: 4.1
+  Product_id: 2850144524455
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/2/ZZ/PC/VE/48820468/63hn-250x250.jpg
+--------------------------------------------------
+Product 13:
+  Name: Apple Macbook Air, M1
+  Product_url: https://www.indiamart.com/proddetail/apple-macbook-air-2855328894291.html?pos=13&kwd=macbook%20air&tags=A||||8788.382|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Price: 59,999
+  Supplier: Blaze Computers
+  Supplier_url: https://www.indiamart.com/blaze-computersgreaternoida/?pos=13&kwd=macbook%20air&tags=A||||8788.382|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Greater Noida
+  Product_id: 2855328894291
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/11/467616364/UF/JN/QP/232886121/apple-macbook-air-250x250.jpeg
+--------------------------------------------------
+Product 14:
+  Name: Apple Core I5 8GB RAM Macbook Air
+  Product_url: https://www.indiamart.com/proddetail/apple-core-i5-8gb-ram-macbook-air-2850440239897.html?pos=14&kwd=macbook%20air&tags=A||||8307.81||product|||MDC|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=3
+  Supplier: GNR Solution Private Limited
+  Supplier_url: https://www.indiamart.com/gnr-solution-maharashtra/?pos=14&kwd=macbook%20air&tags=A||||8307.81||product|||MDC|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Pune
+  Rating: 3.9
+  Product_id: 2850440239897
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/3/YP/XH/NA/181512175/apple-macbook-air-250x250.jpg
+--------------------------------------------------
+Product 15:
+  Name: Apple 2022 Macbook Air, M2
+  Product_url: https://www.indiamart.com/proddetail/apple-2022-macbook-air-2853095951055.html?pos=15&kwd=macbook%20air&tags=A||||8663.873|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=4
+  Price: 70,000
+  Supplier: Multi Laptop Store
+  Supplier_url: https://www.indiamart.com/multi-laptop-store/?pos=15&kwd=macbook%20air&tags=A||||8663.873|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Bengaluru
+  Rating: 4.4
+  Product_id: 2853095951055
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/12/370079129/KO/HK/NE/54161968/apple-m2-pic-250x250.jpg
+--------------------------------------------------
+Product 16:
+  Name: Apple Macbook Air
+  Product_url: https://www.indiamart.com/proddetail/apple-macbook-air-2851033372162.html?pos=16&kwd=macbook%20air&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=5
+  Price: 22,000
+  Supplier: Infotech Mac Solution
+  Supplier_url: https://www.indiamart.com/infotech-mac-solution/?pos=16&kwd=macbook%20air&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: New Delhi
+  Rating: 5
+  Product_id: 2851033372162
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/5/306161898/WA/NL/RR/88108487/apple-macbook-air-250x250.PNG
+--------------------------------------------------
+Product 17:
+  Name: Apple Macbook Air A1466
+  Price: 25,900
+  Supplier: JL Service Provider
+  Supplier_url: https://www.indiamart.com/jlserviceprovider/?pos=17&kwd=macbook%20air&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: New Delhi
+  Rating: 3.2
+  Product_id: 2854469986973
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/8/440554476/JN/HM/NP/16601287/apple-macbook-air-a1466-250x250.jpeg
+--------------------------------------------------
+Product 18:
+  Name: Dolluk Apple Macbook Air A1465 Sceen, For Laptop, Non Touch Screen
+  Product_url: https://www.indiamart.com/proddetail/dolluk-apple-macbook-air-a1465-sceen-2852958746448.html?pos=18&kwd=macbook%20air&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=3
+  Price: 13,000
+  Supplier: Laptophub
+  Supplier_url: https://www.indiamart.com/laptophub-newdelhi/?pos=18&kwd=macbook%20air&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: New Delhi
+  Rating: 3.9
+  Product_id: 2852958746448
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/3/403398990/AS/ML/AP/98969534/apple-macbook-air-a1465-sceen-250x250.jpg
+--------------------------------------------------
+Product 19:
+  Name: Apple Macbook Pro Air, M1
+  Product_url: https://www.indiamart.com/proddetail/apple-macbook-pro-air-2853445857191.html?pos=19&kwd=macbook%20air&tags=A||||8741.812|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=4
+  Price: 30,000
+  Supplier: Seasoned Technologies
+  Supplier_url: https://www.indiamart.com/seasoned-technologies/?pos=19&kwd=macbook%20air&tags=A||||8741.812|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Gurugram
+  Rating: 4
+  Product_id: 2853445857191
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/2/488173039/WT/OJ/UT/137578576/apple-macbook-pro-air-250x250.jpg
+--------------------------------------------------
+Product 20:
+  Name: Apple Macbook Air, M1
+  Product_url: https://www.indiamart.com/proddetail/apple-macbook-air-2854191330030.html?pos=20&kwd=macbook%20air&tags=BA||||8663.873|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4|r=4
+  Price: 70,990
+  Supplier: Karthik Laptop World
+  Supplier_url: https://www.indiamart.com/karthik-laptop-world/?pos=20&kwd=macbook%20air&tags=BA||||8663.873|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12355|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:182487|cat:57|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:0-0-1-0-3-5-1|qrd:250422|mrd:250422|prdt:250422|qcr:1|v=4
+  Location: Bengaluru
+  Rating: 4.6
+  Product_id: 2854191330030
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/6/423799863/XY/TL/XC/56050682/71jg-e7roxl-sx679-250x250.jpg
+--------------------------------------------------

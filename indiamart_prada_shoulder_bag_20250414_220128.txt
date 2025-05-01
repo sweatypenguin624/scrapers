@@ -1,0 +1,223 @@
+Search Query: prada shoulder bag
+Timestamp: 2025-04-14 22:01:28
+Total Products Scraped: 20
+
+Scraped Products:
+--------------------------------------------------
+Product 1:
+  Name: Hand Handled PU Leather Ladies Orange Shoulder Bag, 300gm, Size: 30x40 cm (lxw)
+  Product_url: https://www.indiamart.com/proddetail/ladies-orange-shoulder-bag-2849762789230.html?pos=1&kwd=prada%20shoulder%20bag&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 150
+  Supplier: Unick Enterprises
+  Supplier_url: https://www.indiamart.com/unickenterises/?pos=1&kwd=prada%20shoulder%20bag&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: New Delhi
+  Rating: 4.7
+  Product_id: 2849762789230
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/1/LE/TO/IA/182855250/ladies-leather-handpurse-250x250.jpg
+--------------------------------------------------
+Product 2:
+  Name: Prada_Flap_Shoulder_Bag_(brown)
+  Product_url: https://www.indiamart.com/proddetail/prada-flap-shoulder-bag-brown-2856354082791.html?pos=2&kwd=prada%20shoulder%20bag&tags=A||||8230.883|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Price: 2,899
+  Supplier: MT Accessories
+  Supplier_url: https://www.indiamart.com/mtaccessories/?pos=2&kwd=prada%20shoulder%20bag&tags=A||||8230.883|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Surat
+  Product_id: 2856354082791
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2025/4/502352719/XR/BM/IB/241140274/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 3:
+  Name: Ladies Shoulder Bags
+  Product_url: https://www.indiamart.com/proddetail/ladies-shoulder-bags-2854584315173.html?pos=3&kwd=prada%20shoulder%20bag&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 460
+  Supplier: Divine Nx
+  Supplier_url: https://www.divinenx.com/?pos=3&kwd=prada%20shoulder%20bag&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Mumbai
+  Rating: 4.1
+  Product_id: 2854584315173
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2024/8/440066027/NA/BW/DG/55620190/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 4:
+  Name: Mehandi Cotton Cosmus Arena Trendy Stylish Canvas Shoulder Sling Bag
+  Product_url: https://www.indiamart.com/proddetail/cosmus-arena-trendy-stylish-canvas-shoulder-sling-bag-17956380662.html?pos=4&kwd=prada%20shoulder%20bag&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 579
+  Supplier: Cosmus Lifestyle Private Limited
+  Supplier_url: https://www.cosmusbags.in/?pos=4&kwd=prada%20shoulder%20bag&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Mumbai
+  Rating: 4
+  Product_id: 17956380662
+  Image_url: https://5.imimg.com/data5/ND/PC/MY-2918391/cosmus-arena-trendy-stylish-canvas-shoulder-sling-bag-250x250.jpg
+--------------------------------------------------
+Product 5:
+  Name: Ladies Printed Leather Shoulder Bag
+  Product_url: https://www.indiamart.com/proddetail/ladies-printed-leather-shoulder-bag-26749175688.html?pos=5&kwd=prada%20shoulder%20bag&tags=A||||9839.57|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 599
+  Supplier: R & N Crafts
+  Supplier_url: https://www.indiamart.com/r-n-crafts/?pos=5&kwd=prada%20shoulder%20bag&tags=A||||9839.57|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Kolkata
+  Rating: 4
+  Product_id: 26749175688
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/9/341100626/SY/XG/AT/115096845/designer-wallet-250x250.jpg
+--------------------------------------------------
+Product 6:
+  Name: Dark Brown Women Leather Shoulder Bag
+  Product_url: https://www.indiamart.com/proddetail/women-leather-shoulder-bag-27132380388.html?pos=6&kwd=prada%20shoulder%20bag&tags=A||||9843.627|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 1,450
+  Supplier: Asgari Enterprise
+  Supplier_url: https://www.indiamart.com/asgarienterprise/?pos=6&kwd=prada%20shoulder%20bag&tags=A||||9843.627|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: North 24 Parganas
+  Rating: 4.8
+  Product_id: 27132380388
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2022/10/DM/BZ/RY/82464038/er62-brown-cross-250x250.jpg
+--------------------------------------------------
+Product 7:
+  Name: White And Purple Genuine Leather Ladies Printed Shoulder Bag
+  Product_url: https://www.indiamart.com/proddetail/ladies-printed-shoulder-bag-15167347491.html?pos=7&kwd=prada%20shoulder%20bag&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=3
+  Price: 160
+  Supplier: M S Leather
+  Supplier_url: https://www.indiamart.com/ms-leather-delhi/?pos=7&kwd=prada%20shoulder%20bag&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: New Delhi
+  Rating: 3.9
+  Product_id: 15167347491
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/2/388974866/XL/DN/TA/21121667/ladies-printed-shoulder-bag-250x250.jpg
+--------------------------------------------------
+Product 8:
+  Name: Red Hand Painted Dari Fabric Stripe Design Shoulder Bag 175, Size: 12"x14"x3"
+  Product_url: https://www.indiamart.com/proddetail/dari-fabric-stripe-design-shoulder-bag-175-3768947362.html?pos=8&kwd=prada%20shoulder%20bag&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 285
+  Supplier: Little India
+  Supplier_url: https://www.littleindiajaipur.com/?pos=8&kwd=prada%20shoulder%20bag&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Jaipur
+  Rating: 4.2
+  Product_id: 3768947362
+  Image_url: https://5.imimg.com/data5/GM/CO/ZA/SELLER-1819434/double-black-kashmiri-shawl-169-250x250.jpeg
+--------------------------------------------------
+Product 9:
+  Name: Ladies Black Buffalo Leather Corporate Shoulder Bag
+  Product_url: https://www.indiamart.com/proddetail/ladies-black-buffalo-leather-corporate-shoulder-bag-2855668441173.html?pos=9&kwd=prada%20shoulder%20bag&tags=A||||9839.57|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Price: 850
+  Supplier: Nadim Leather
+  Supplier_url: https://www.indiamart.com/nadim-leather/?pos=9&kwd=prada%20shoulder%20bag&tags=A||||9839.57|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Kolkata
+  Product_id: 2855668441173
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/1/484575845/XC/RT/JI/69728875/ladies-corporate-bags-250x250.jpg
+--------------------------------------------------
+Product 10:
+  Name: Leather Baizag Senorita Shoulder Black Bag
+  Product_url: https://www.indiamart.com/proddetail/baizag-senorita-shoulder-black-bag-2854852937773.html?pos=10&kwd=prada%20shoulder%20bag&tags=A||||8228.275|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=5
+  Price: 1,700
+  Supplier: Baizag Lifestyle Private Limited
+  Supplier_url: https://www.indiamart.com/baizaglifestyle/?pos=10&kwd=prada%20shoulder%20bag&tags=A||||8228.275|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:S|wc:1|qr_nm:gd|cs:13124|com-cf:nl|ptrs:na|mc:11292|cat:362|qry_typ:P|lang:en|flavl:0-1|rtn:2-0-0-0-1-6-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Ahmedabad
+  Rating: 5
+  Product_id: 2854852937773
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/9/450606831/AS/CB/BY/229410901/baizag-senorita-shoulder-black-bag-250x250.jpg
+--------------------------------------------------
+Product 11:
+  Name: Leather Shoulder Bag
+  Product_url: https://www.indiamart.com/proddetail/leather-shoulder-bag-16521513288.html?pos=11&kwd=prada%20shoulder%20bag&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 1,205
+  Supplier: Madhav International
+  Supplier_url: https://www.madhavinternational.net/?pos=11&kwd=prada%20shoulder%20bag&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: New Delhi
+  Rating: 4.5
+  Product_id: 16521513288
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2022/5/OS/UW/TC/65727/leather-cotton-tote-bag-250x250.jpg
+--------------------------------------------------
+Product 12:
+  Name: Women PU Leather Beige Shoulder Bag Set
+  Product_url: https://www.indiamart.com/proddetail/women-pu-leather-beige-shoulder-bag-set-2855568455973.html?pos=12&kwd=prada%20shoulder%20bag&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 265
+  Supplier: VIP Brothers
+  Supplier_url: https://www.indiamart.com/vipbrothers/?pos=12&kwd=prada%20shoulder%20bag&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: New Delhi
+  Rating: 4
+  Product_id: 2855568455973
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/1/478098833/QZ/RJ/LT/238361229/women-pu-leather-beige-shoulder-bag-250x250.jpg
+--------------------------------------------------
+Product 13:
+  Name: Bag For Women Handbags Female Simple Large High Capacity Shoulder Side Bag Purses
+  Product_url: https://www.indiamart.com/proddetail/bag-for-women-handbags-female-simple-large-high-capacity-shoulder-side-bag-purses-2855504937388.html?pos=13&kwd=prada%20shoulder%20bag&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 199
+  Supplier: Shanti Packers
+  Supplier_url: https://www.indiamart.com/shantipackers/?pos=13&kwd=prada%20shoulder%20bag&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: New Delhi
+  Rating: 4.1
+  Product_id: 2855504937388
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/12/474957875/BI/IK/RG/227391202/2-250x250.jpg
+--------------------------------------------------
+Product 14:
+  Name: Rexine Ladies Shoulder Bag
+  Product_url: https://www.indiamart.com/proddetail/ladies-shoulder-bag-2853997386530.html?pos=14&kwd=prada%20shoulder%20bag&tags=A||||9839.57|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 199
+  Supplier: Nazeefah Enterprise
+  Supplier_url: https://www.indiamart.com/nazeefah-enterprise-kolkata/?pos=14&kwd=prada%20shoulder%20bag&tags=A||||9839.57|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Kolkata
+  Rating: 4.7
+  Product_id: 2853997386530
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2024/5/415156130/FE/BD/GK/103144570/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 15:
+  Name: Cotton Crocheted Crochet Shopping Shoulder Bags
+  Product_url: https://www.indiamart.com/proddetail/crochet-shopping-shoulder-bags-2855778624788.html?pos=15&kwd=prada%20shoulder%20bag&tags=A||||8806.854|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Price: 700
+  Supplier: AL Jawad Overseas
+  Supplier_url: https://www.indiamart.com/aljawadoverseas/?pos=15&kwd=prada%20shoulder%20bag&tags=A||||8806.854|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Sikandrabad
+  Product_id: 2855778624788
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/2/488457090/SR/YQ/DX/57820346/crochet-bags-250x250.jpeg
+--------------------------------------------------
+Product 16:
+  Name: Leather Ladies Fancy Shoulder Bag
+  Product_url: https://www.indiamart.com/proddetail/ladies-fancy-shoulder-bag-24154263312.html?pos=16&kwd=prada%20shoulder%20bag&tags=A||||9839.57|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 960
+  Supplier: Afifa International
+  Supplier_url: https://www.indiamart.com/afifainternational/?pos=16&kwd=prada%20shoulder%20bag&tags=A||||9839.57|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Kolkata
+  Rating: 4.5
+  Product_id: 24154263312
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2022/10/TK/NS/CV/15651136/ladies-fancy-shoulder-bag-250x250.jpg
+--------------------------------------------------
+Product 17:
+  Name: Women Red Pure Leather Shoulder Bag
+  Product_url: https://www.indiamart.com/proddetail/women-red-pure-leather-shoulder-bag-20282910991.html?pos=17&kwd=prada%20shoulder%20bag&tags=A||||9829.308|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=3
+  Price: 2,000
+  Supplier: Arise Export
+  Supplier_url: https://www.ariseexport.co.in/?pos=17&kwd=prada%20shoulder%20bag&tags=A||||9829.308|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Howrah
+  Rating: 3.9
+  Product_id: 20282910991
+  Image_url: https://5.imimg.com/data5/JC/IG/MY-11618089/img-20181106-wa0005-250x250.jpg
+--------------------------------------------------
+Product 18:
+  Name: Leather Ladies Shoulder Bag
+  Product_url: https://www.indiamart.com/proddetail/ladies-shoulder-bag-2855738247530.html?pos=18&kwd=prada%20shoulder%20bag&tags=A||||9839.57|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=3
+  Price: 1,350
+  Supplier: Wild Foxx
+  Supplier_url: https://www.indiamart.com/wild-foxx/?pos=18&kwd=prada%20shoulder%20bag&tags=A||||9839.57|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Kolkata
+  Rating: 3.8
+  Product_id: 2855738247530
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/2/486468863/VO/SL/KR/220215189/ladies-shoulder-bag-250x250.jpg
+--------------------------------------------------
+Product 19:
+  Name: Pu Leather Embroidered Fancy Ladies Shoulder Bags
+  Product_url: https://www.indiamart.com/proddetail/fancy-ladies-shoulder-bags-24349295312.html?pos=19&kwd=prada%20shoulder%20bag&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 310/Unit
+  Supplier: H.R. Enterprises
+  Supplier_url: https://www.indiamart.com/hrenterprisesmumbai/?pos=19&kwd=prada%20shoulder%20bag&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Mumbai
+  Rating: 4.3
+  Product_id: 24349295312
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2021/12/FX/CX/ID/8971821/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 20:
+  Name: Ladies Multi Color Shoulder Bag
+  Product_url: https://www.indiamart.com/proddetail/ladies-multi-color-shoulder-bag-2853742257355.html?pos=20&kwd=prada%20shoulder%20bag&tags=BA||||8848.133|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=2
+  Price: 700
+  Supplier: Gulbhar
+  Supplier_url: https://www.indiamart.com/gulbhar/?pos=20&kwd=prada%20shoulder%20bag&tags=BA||||8848.133|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:12396|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:11292|cat:362|mtp:S|qry_typ:P|lang:en|wc:1|rtn:1-0-0-1-2-6-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Garhmukteshwar
+  Rating: 2
+  Product_id: 2853742257355
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/3/405903266/IL/UG/WZ/159231659/ladies-multi-color-shoulder-bag-250x250.jpg
+--------------------------------------------------

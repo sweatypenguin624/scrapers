@@ -1,0 +1,223 @@
+Search Query: iphone13
+Timestamp: 2025-04-15 00:31:22
+Total Products Scraped: 20
+
+Scraped Products:
+--------------------------------------------------
+Product 1:
+  Name: Black Iphone 13 128 Gb
+  Product_url: https://www.indiamart.com/proddetail/iphone-13-128-gb-2855854771462.html?pos=1&kwd=iphone%2013&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4|r=2
+  Price: 34,000
+  Supplier: Zen Gadgets
+  Supplier_url: https://www.indiamart.com/zengadgets/?pos=1&kwd=iphone%2013&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: New Delhi
+  Rating: 2.8
+  Product_id: 2855854771462
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2025/3/496763929/TK/KS/TH/151410703/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 2:
+  Name: Green Apple IPhone 13
+  Product_url: https://www.indiamart.com/proddetail/apple-iphone-13-2852990430473.html?pos=2&kwd=iphone%2013&tags=A||||8307.81|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4|r=4
+  Price: 59,900
+  Supplier: Akshat Solanki
+  Supplier_url: https://www.solankiji.com/?pos=2&kwd=iphone%2013&tags=A||||8307.81|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Pune
+  Rating: 4
+  Product_id: 2852990430473
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/12/367720618/RT/QT/QH/18726985/apple-iphone-13-250x250.jpg
+--------------------------------------------------
+Product 3:
+  Name: Black Iphone 13 Pro 128gb
+  Product_url: https://www.indiamart.com/proddetail/iphone-13-pro-128gb-2851627734191.html?pos=3&kwd=iphone%2013&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4|r=3
+  Price: 73,500
+  Supplier: Zion Technologies
+  Supplier_url: https://www.ziontechnologies.in/?pos=3&kwd=iphone%2013&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: New Delhi
+  Rating: 3.8
+  Product_id: 2851627734191
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/6/320584455/WT/SL/KG/181126883/iphone-13-pro-128gb-250x250.jpg
+--------------------------------------------------
+Product 4:
+  Name: Apple Iphone 13 Pro (128Gb) - Sierra Blue
+  Product_url: https://www.indiamart.com/proddetail/apple-iphone-13-pro-128gb-sierra-blue-27259378133.html?pos=4&kwd=iphone%2013&tags=A||||8223.226|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4|r=3
+  Price: 95,000
+  Supplier: Concentric Circles LLP
+  Supplier_url: https://www.indiamart.com/concentric-circles-llp/?pos=4&kwd=iphone%2013&tags=A||||8223.226|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Thane
+  Rating: 3.8
+  Product_id: 27259378133
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2022/10/NV/MI/BP/43819962/apple-iphone-13-pro-128gb-sierra-blue-250x250.jpg
+--------------------------------------------------
+Product 5:
+  Name: Gold Demo unit Iphone 13 pro
+  Product_url: https://www.indiamart.com/proddetail/demo-unit-iphone-13-pro-2854175202962.html?pos=5&kwd=iphone%2013&tags=A||||9520.041|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4|r=3
+  Price: 49,999
+  Supplier: We Buy Phones
+  Supplier_url: https://www.indiamart.com/webuyphones/?pos=5&kwd=iphone%2013&tags=A||||9520.041|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Patna
+  Rating: 3.7
+  Product_id: 2854175202962
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2024/5/423036854/IQ/XD/CG/222802976/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 6:
+  Name: Red Apple IPhone 13 256 GB Mobile
+  Product_url: https://www.indiamart.com/proddetail/apple-iphone-13-256-gb-mobile-2855769996412.html?pos=6&kwd=iphone%2013&tags=A||||8741.812|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4|r=3
+  Price: 42,999
+  Supplier: Glowier E Services
+  Supplier_url: https://www.indiamart.com/glowier-eservices-jhansi/?pos=6&kwd=iphone%2013&tags=A||||8741.812|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Gurugram
+  Rating: 3
+  Product_id: 2855769996412
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/2/488301285/SF/RM/CQ/87718482/i13-apple-iphone-256-gb-mobile-250x250.jpg
+--------------------------------------------------
+Product 7:
+  Name: Blue Apple Iphone 13 128Gb, Battery Capacity: 15w Wireless Charging, 12MP
+  Product_url: https://www.indiamart.com/proddetail/apple-iphone-13-128gb-2850586307288.html?pos=7&kwd=iphone%2013&tags=A||||8223.226|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4|r=3
+  Price: 45,500
+  Supplier: We Repair & Swastik Enterprises
+  Supplier_url: https://www.indiamart.com/werepair-swastik-enterprises/?pos=7&kwd=iphone%2013&tags=A||||8223.226|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Thane
+  Rating: 3.6
+  Product_id: 2850586307288
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/3/295802074/TP/JD/WQ/153133653/apple-iphone-13-128gb-blue-250x250.jpg
+--------------------------------------------------
+Product 8:
+  Name: Apple Iphone 13 128gb Mobile Handset, Battery Capacity: 3240mah, 12mp
+  Product_url: https://www.indiamart.com/proddetail/apple-iphone-13-128gb-mobile-handset-25674854312.html?pos=8&kwd=iphone%2013&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4|r=4
+  Price: 49,000
+  Supplier: Toughees Telecom
+  Supplier_url: https://www.indiamart.com/toughees-telecom/?pos=8&kwd=iphone%2013&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: New Delhi
+  Rating: 4
+  Product_id: 25674854312
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2022/5/LB/YK/BQ/9446786/13-250x250.jpg
+--------------------------------------------------
+Product 9:
+  Name: Iphone 13 Pro
+  Product_url: https://www.indiamart.com/proddetail/iphone-13-pro-2855327922891.html?pos=9&kwd=iphone%2013&tags=BA||||8752.144||product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4|r=3
+  Supplier: Krishna Traders
+  Supplier_url: https://www.krishnatradersktr.com/?pos=9&kwd=iphone%2013&tags=BA||||8752.144||product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: New Delhi
+  Rating: 3.8
+  Product_id: 2855327922891
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/11/468446234/IC/BX/HO/37954860/iphone-13-pro-250x250.jpg
+--------------------------------------------------
+Product 10:
+  Name: IPHONE 13 PRO MAX 128GB/256/512GB AND 1 TB, SILVER, GOLD, SIERRA BLUE, GRAPHITE,AND MANY MORE.
+  Product_url: https://www.indiamart.com/proddetail/iphone-13-pro-max-128gb-256-512gb-and-1-tb-silver-gold-sierra-blue-graphite-and-many-more-25388784588.html?pos=10&kwd=iphone%2013&tags=BA||||8741.812||product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4|r=3
+  Supplier: Crimson Communicare LLP
+  Supplier_url: https://www.crimsonkart.com/?pos=10&kwd=iphone%2013&tags=BA||||8741.812||product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|prpfl:1|wc:1|qr_nm:gd|cs:14148|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|flavl:10|rtn:0-0-0-1-7-2-0|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Gurugram
+  Rating: 3.7
+  Product_id: 25388784588
+  Image_url: https://5.imimg.com/data5/GLADMIN/Default/2022/4/DF/LN/XU/14357089/iphone-13-pro-max-128gb-256-512gb-and-1-tb-silver-gold-sierra-blue-graphite-and-many-more--250x250.JPG
+--------------------------------------------------
+Product 11:
+  Name: Ivory Apple IPhone 13 Pro Max Phone, Battery Capacity: 4352mAh, 12 Mp
+  Product_url: https://www.indiamart.com/proddetail/apple-iphone-13-pro-max-phone-dealer-2850476884691.html?pos=11&kwd=iphone%2013&tags=BA||||8752.144|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4|r=4
+  Price: 1,00,000
+  Supplier: Globex Co.
+  Supplier_url: https://www.indiamart.com/globex-conew-delhi/?pos=11&kwd=iphone%2013&tags=BA||||8752.144|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: New Delhi
+  Rating: 4.1
+  Product_id: 2850476884691
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/3/292019994/HM/JZ/KC/104903331/apple-iphone-13-pro-max-250x250.jpg
+--------------------------------------------------
+Product 12:
+  Name: Black 128GB iPhone 13
+  Product_url: https://www.indiamart.com/proddetail/128gb-iphone-13-2855724498588.html?pos=12&kwd=iphone%2013&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4|r=5
+  Price: 49,900
+  Supplier: Futuretech Traders LLP
+  Supplier_url: https://www.indiamart.com/futuretech-traders/?pos=12&kwd=iphone%2013&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Mumbai
+  Rating: 5
+  Product_id: 2855724498588
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/2/486562924/HC/VX/XN/238591117/128gb-iphone-13-250x250.jpg
+--------------------------------------------------
+Product 13:
+  Name: Apple 13 128 GB Starlight iPhone
+  Product_url: https://www.indiamart.com/proddetail/apple-13-128-gb-starlight-iphone-2854117571597.html?pos=13&kwd=iphone%2013&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4|r=4
+  Price: 45,000
+  Supplier: Real Deals
+  Supplier_url: https://www.therealcommunication.com/?pos=13&kwd=iphone%2013&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Jaipur
+  Rating: 4
+  Product_id: 2854117571597
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/5/420465210/EC/CP/VZ/222515528/apple-iphone-13-128gb-starlight-250x250.jpg
+--------------------------------------------------
+Product 14:
+  Name: Black I Phone 13 Smartphone
+  Product_url: https://www.indiamart.com/proddetail/i-phone-13-smartphone-2856262794130.html?pos=14&kwd=iphone%2013&tags=A||||8142.81|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4
+  Price: 44,999
+  Supplier: Nilkanth Enterprise
+  Supplier_url: https://www.indiamart.com/nilkanth-enterprise-radhanpur/?pos=14&kwd=iphone%2013&tags=A||||8142.81|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Radhanpur
+  Product_id: 2856262794130
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/3/497901698/UU/HB/UT/34724437/i-phone-13-smartphone-250x250.jpg
+--------------------------------------------------
+Product 15:
+  Name: Apple White 128Gb I Phone 13
+  Product_url: https://www.indiamart.com/proddetail/apple-white-128gb-i-phone-13-2855241176933.html?pos=15&kwd=iphone%2013&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4|r=3
+  Price: 46,900
+  Supplier: Unique Teleshoppe
+  Supplier_url: https://www.indiamart.com/uniqueteleshoppe/?pos=15&kwd=iphone%2013&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: New Delhi
+  Rating: 3
+  Product_id: 2855241176933
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/11/463323333/OH/FZ/KL/234813855/apple-blue-128gb-i-phone-13-250x250.jpg
+--------------------------------------------------
+Product 16:
+  Name: Silver Apple iPhone 13 Pro 128 GB Mobile Phone
+  Product_url: https://www.indiamart.com/proddetail/apple-iphone-13-pro-128-gb-mobile-phone-2849084355291.html?pos=16&kwd=iphone%2013&tags=BA||||8659.139|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4|r=3
+  Price: 1,20,000
+  Supplier: Ajtronic
+  Supplier_url: https://www.indiamart.com/ajtronic/?pos=16&kwd=iphone%2013&tags=BA||||8659.139|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Akola
+  Rating: 3.8
+  Product_id: 2849084355291
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2022/12/HV/RD/ZK/180062131/apple-iphone-13-pro-128gb-silver-250x250.jpg
+--------------------------------------------------
+Product 17:
+  Name: iPhone 13 Apple 128 GB Storage Starlight Mobile Phone
+  Product_url: https://www.indiamart.com/proddetail/iphone-13-apple-128-gb-storage-starlight-mobile-phone-2851523525912.html?pos=17&kwd=iphone%2013&tags=BA||||8778.123|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4|r=3
+  Price: 55,000
+  Supplier: Saar E Commerce India Private Limited
+  Supplier_url: https://www.indiamart.com/saarecommerceindia/?pos=17&kwd=iphone%2013&tags=BA||||8778.123|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Noida
+  Rating: 3.5
+  Product_id: 2851523525912
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/6/315854604/LO/MB/MX/57488491/iphone-13-apple-128-gb-storage-starlight-mobile-phone-250x250.jpg
+--------------------------------------------------
+Product 18:
+  Name: Black Apple 11 128 GB IPhone ,, Battery Capacity: 3,110mAh, 12 Mp
+  Product_url: https://www.indiamart.com/proddetail/apple-11-128-gb-iphone-2849076143833.html?pos=18&kwd=iphone%2013&tags=A||||8741.812|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4|r=4
+  Price: 19,000
+  Supplier: Radical Aftermarket Services Private Limited
+  Supplier_url: https://www.indiamart.com/radical-aftermarket-gurugram/?pos=18&kwd=iphone%2013&tags=A||||8741.812|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Gurugram
+  Rating: 4
+  Product_id: 2849076143833
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2022/12/WI/SJ/WY/180197957/apple-11-128gb-i-phone-250x250.jpg
+--------------------------------------------------
+Product 19:
+  Name: Iphone 13 & 13 Pro Max White & Yellow Display Solution Available
+  Product_url: https://www.indiamart.com/proddetail/iphone-13-13-pro-max-white-yellow-display-solution-available-2853465964733.html?pos=19&kwd=iphone%2013&tags=BA||||8769.508|Price|product|||NA|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4|r=4
+  Price: 5,000
+  Supplier: S S Telecom
+  Supplier_url: https://www.indiamart.com/sstelecom-faridabad/?pos=19&kwd=iphone%2013&tags=BA||||8769.508|Price|product|||NA|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Faridabad
+  Rating: 4
+  Product_id: 2853465964733
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2024/2/390422909/YE/QC/UO/12395230/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 20:
+  Name: APPLE IPHONE 13 128GB
+  Product_url: https://www.indiamart.com/proddetail/apple-iphone-13-128gb-2850062892391.html?pos=20&kwd=iphone%2013&tags=BA||||8228.275|Price|product|||NA|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4|r=4
+  Price: 44,000
+  Supplier: Vaibhavi Communication
+  Supplier_url: https://www.indiamart.com/vaibhavi-communication/?pos=20&kwd=iphone%2013&tags=BA||||8228.275|Price|product|||NA|rsf:gd-|-res:RC3|ktp:N0|stype:attr=1|mtp:Brn|wc:1|qr_nm:gd|cs:12803|com-cf:nl|ptrs:na|mc:179822|cat:750|qry_typ:P|lang:en|rtn:1-0-0-0-3-5-1|qrd:250412|mrd:250412|prdt:250415|v=4
+  Location: Ahmedabad
+  Rating: 4
+  Product_id: 2850062892391
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2024/10/456886153/GC/SR/DF/183421959/product-jpeg-250x250.jpg
+--------------------------------------------------

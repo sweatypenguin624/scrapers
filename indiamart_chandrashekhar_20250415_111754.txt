@@ -1,0 +1,219 @@
+Search Query: chandrashekhar
+Timestamp: 2025-04-15 11:17:54
+Total Products Scraped: 20
+
+Scraped Products:
+--------------------------------------------------
+Product 1:
+  Name: Color Coated Handicraft Modern Ganesha Statue, Packaging Type: Box
+  Product_url: https://www.indiamart.com/proddetail/handicraft-modern-ganesha-statue-4929542091.html?pos=1&kwd=chandra%20shekhar&tags=|PL|||8601.347|Price|product|||LSlc|rsf:pl-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=4
+  Price: 430
+  Supplier: Moorti Mahal
+  Supplier_url: https://www.moortimahal.in/?pos=1&kwd=chandra%20shekhar&tags=|PL|||8601.347|Price|product|||LSlc|rsf:pl-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Jaipur
+  Rating: 4.1
+  Product_id: 4929542091
+  Image_url: https://3.imimg.com/data3/XB/CV/MY-3036907/handicrafts-morden-ganesha-250x250.jpeg
+--------------------------------------------------
+Product 2:
+  Name: Carved Marble Modern Art
+  Product_url: https://www.indiamart.com/proddetail/marble-modern-art-3523045291.html?pos=2&kwd=chandra%20shekhar&tags=|PL|||8601.347|Price|product|||SSlc|rsf:pl-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=4
+  Price: 22,000
+  Supplier: Kavisth Moorti Emporium
+  Supplier_url: https://www.godmarblestatue.com/?pos=2&kwd=chandra%20shekhar&tags=|PL|||8601.347|Price|product|||SSlc|rsf:pl-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Jaipur
+  Rating: 4.6
+  Product_id: 3523045291
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/3/396270474/GT/YU/XZ/2748478/marble-modern-art-250x250.jpg
+--------------------------------------------------
+Product 3:
+  Name: Cotton Plain Chandra Shekhar Azad
+  Product_url: https://www.indiamart.com/proddetail/chandra-shekhar-azad-2853574781862.html?pos=3&kwd=chandra%20shekhar&tags=||||8785.791|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=3
+  Price: 260
+  Supplier: Mishita Enterprises
+  Supplier_url: https://www.indiamart.com/mishita-enterprises-ghaziabad/?pos=3&kwd=chandra%20shekhar&tags=||||8785.791|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Ghaziabad
+  Rating: 3.8
+  Product_id: 2853574781862
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/3/396146697/PZ/EG/GS/127677694/fullsizerender-60-250x250.jpg
+--------------------------------------------------
+Product 4:
+  Name: White Chandra Shekhar Azad Marble Statue
+  Product_url: https://www.indiamart.com/proddetail/chandra-shekhar-azad-marble-statue-2852046793691.html?pos=4&kwd=chandra%20shekhar&tags=||||8601.347|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=4
+  Price: 95,000
+  Supplier: Shiv Narain Rajaram Artist
+  Supplier_url: https://www.shivnarainart.com/?pos=4&kwd=chandra%20shekhar&tags=||||8601.347|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Jaipur
+  Rating: 4.8
+  Product_id: 2852046793691
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/8/334672575/FX/RD/JB/2726238/whatsapp-image-2023-08-12-at-10-13-50-pm-1-250x250.jpeg
+--------------------------------------------------
+Product 5:
+  Name: Polyester Chandra Shekhar Azad Costume
+  Product_url: https://www.indiamart.com/proddetail/chandra-shekhar-azad-costume-2856314449755.html?pos=5&kwd=chandra%20shekhar&tags=||||8752.144|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=3
+  Price: 299
+  Supplier: Kaku Fancy Dresses
+  Supplier_url: https://www.indiamart.com/kaku-fancy-dresses/?pos=5&kwd=chandra%20shekhar&tags=||||8752.144|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: New Delhi
+  Rating: 3.9
+  Product_id: 2856314449755
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/4/500341442/IP/HC/WP/8058448/690-01-250x250.jpg
+--------------------------------------------------
+Product 6:
+  Name: Polyester White Chandra Shekhar Azad Print T Shirt, Size: S-XXL
+  Product_url: https://www.indiamart.com/proddetail/chandra-shekhar-azad-t-shirt-17111778762.html?pos=6&kwd=chandra%20shekhar&tags=||||8601.347|Price|product|||MDC|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=4
+  Price: 110
+  Supplier: OLL In One Destination
+  Supplier_url: https://www.indiamart.com/ollinonedestination/?pos=6&kwd=chandra%20shekhar&tags=||||8601.347|Price|product|||MDC|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Jaipur
+  Rating: 4.2
+  Product_id: 17111778762
+  Image_url: https://5.imimg.com/data5/AS/TW/MY-50887688/chandra-shekhar-azad-t-shirt-250x250.jpg
+--------------------------------------------------
+Product 7:
+  Name: Polyester Chandra Shekhar Azad T Shirt
+  Product_url: https://www.indiamart.com/proddetail/chandra-shekhar-azad-t-shirt-2855382377291.html?pos=7&kwd=chandra%20shekhar&tags=||||8788.382||product|||MDC|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=4
+  Supplier: S S Traders
+  Supplier_url: https://www.indiamart.com/sstraders-greater-noida/?pos=7&kwd=chandra%20shekhar&tags=||||8788.382||product|||MDC|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Greater Noida
+  Rating: 4
+  Product_id: 2855382377291
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2024/12/469846268/XO/VD/ZS/198995458/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 8:
+  Name: Chandra Shekhar Azad Statue
+  Price: 75,000
+  Supplier: Vishnu Murti Bhandar
+  Supplier_url: https://www.indiamart.com/vishnu-moorti-bhandar/?pos=8&kwd=chandra%20shekhar&tags=||||8601.347|Price|product|||NA|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Jaipur
+  Product_id: 2854168356473
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2024/5/422735529/EF/OZ/IB/2391279/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 9:
+  Name: PVC Black Chandra Shekhar Azad Wall Stencil
+  Product_url: https://www.indiamart.com/proddetail/chandra-shekhar-azad-wall-stencil-2853327002291.html?pos=9&kwd=chandra%20shekhar&tags=||||8752.144|Price|product|||NA|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=4
+  Price: 35
+  Supplier: AR&NJ
+  Supplier_url: https://www.indiamart.com/arnj-newdelhi/?pos=9&kwd=chandra%20shekhar&tags=||||8752.144|Price|product|||NA|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: New Delhi
+  Rating: 4
+  Product_id: 2853327002291
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/1/381387755/NX/SV/ZB/153605579/41043-chandrashekhar-azad-250x250.jpg
+--------------------------------------------------
+Product 10:
+  Name: Chandra Shekhar Ajad Marble Statue
+  Supplier: Avtar Export
+  Supplier_url: https://www.indiamart.com/avtar-export/?pos=10&kwd=chandra%20shekhar&tags=CC||||8601.347||product|||NA|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|prpfl:1|wc:1|qr_nm:gd|cs:14763|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|flavl:8|rtn:2-0-0-0-2-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Jaipur
+  Product_id: 2853447654797
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/2/389281176/OY/PK/LX/112118911/chandra-shekhar-ajad-marble-statue-250x250.jpg
+--------------------------------------------------
+Product 11:
+  Name: Sheesham Modern Wooden Single Bed, Size: W36xd78xh42 Inches
+  Product_url: https://www.indiamart.com/proddetail/wooden-single-bed-22742161148.html?pos=11&kwd=chandra%20shekhar&tags=||||8319.425|Price|product|||NA|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Price: 9,700
+  Supplier: Chandra Shekhar Exports
+  Supplier_url: https://www.indiamart.com/chandrasekhar-exports/?pos=11&kwd=chandra%20shekhar&tags=||||8319.425|Price|product|||NA|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Jodhpur
+  Product_id: 22742161148
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2020/10/PJ/OO/QC/2234/belle-single-bed-without-storage21-250x250.jpg
+--------------------------------------------------
+Product 12:
+  Name: White Shri Ram Chandra Ji Marble Statue, For Worship
+  Product_url: https://www.indiamart.com/proddetail/shri-ram-chandra-ji-marble-statue-2851285270988.html?pos=12&kwd=chandra%20shekhar&tags=A||||8601.347|Price|product|||SSnp|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=4
+  Price: 10,000
+  Supplier: Jain Moorti Arts
+  Supplier_url: https://www.jainmoortiarts.com/?pos=12&kwd=chandra%20shekhar&tags=A||||8601.347|Price|product|||SSnp|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Jaipur
+  Rating: 4.9
+  Product_id: 2851285270988
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/10/351972882/EJ/EE/HZ/2744219/shri-ram-darbar-marble-statue-250x250.jpg
+--------------------------------------------------
+Product 13:
+  Name: Subhash Chandra Marble Statue, For Socity, Size/Dimension: 2 Feet
+  Product_url: https://www.indiamart.com/proddetail/subhash-chandra-marble-statue-17682457562.html?pos=13&kwd=chandra%20shekhar&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=4
+  Price: 20,000
+  Supplier: Shri Girdhar Moorti Art
+  Supplier_url: https://www.shrigirdharmoortiart.com/?pos=13&kwd=chandra%20shekhar&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Jaipur
+  Rating: 4.3
+  Product_id: 17682457562
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2023/1/SH/TF/TJ/50303409/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 14:
+  Name: White Marble Subhash chandra boss statue, For Decoration, Size: 6 Ft
+  Product_url: https://www.indiamart.com/proddetail/marble-subhash-chandra-bose-statue-2852174579788.html?pos=14&kwd=chandra%20shekhar&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=3
+  Price: 1,47,000
+  Supplier: Kanha Moorti Kala Kendra
+  Supplier_url: https://www.indiamart.com/kanhamoortikalakendra/?pos=14&kwd=chandra%20shekhar&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Jaipur
+  Rating: 3.8
+  Product_id: 2852174579788
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2023/8/339100206/XS/XG/LO/3341721/product-jpeg-250x250.jpeg
+--------------------------------------------------
+Product 15:
+  Name: Ram chandra hansh marble, Temple
+  Product_url: https://www.indiamart.com/proddetail/ram-chandra-hansh-marble-2851551430533.html?pos=15&kwd=chandra%20shekhar&tags=A||||8772.562|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=3
+  Price: 31,000
+  Supplier: Kartik Murti Art
+  Supplier_url: https://www.kartikmurtiart.com/?pos=15&kwd=chandra%20shekhar&tags=A||||8772.562|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Bharatpur
+  Rating: 3.3
+  Product_id: 2851551430533
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2023/6/316974796/DW/XQ/TT/162805461/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 16:
+  Name: Multicolor 6.5 Feet Makrana Marble Neta G Subhash Chandra Bose Statue, For Worship, Indoor
+  Product_url: https://www.indiamart.com/proddetail/6-5-feet-makrana-marble-neta-g-subhash-chandra-bose-statue-26528682030.html?pos=16&kwd=chandra%20shekhar&tags=A||||8601.347|Price|product|||LSnp|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=4
+  Price: 95,000/Feet
+  Supplier: Virat Moorti Bhandar
+  Supplier_url: https://www.viratmoortibhandar.in/?pos=16&kwd=chandra%20shekhar&tags=A||||8601.347|Price|product|||LSnp|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Jaipur
+  Rating: 4
+  Product_id: 26528682030
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2022/9/IJ/ZU/KR/46115981/6-5-feet-makrana-marble-neta-g-subhash-chandra-bose-statue-250x250.jpeg
+--------------------------------------------------
+Product 17:
+  Name: Green 6ft Netaji Subhash Chandra Bose Marble Statue, For Decoration, Outdoor
+  Product_url: https://www.indiamart.com/proddetail/6ft-netaji-subhash-chandra-bose-marble-statue-23540461833.html?pos=17&kwd=chandra%20shekhar&tags=A||||8692.544|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=3
+  Price: 95,000
+  Supplier: Ankur Murti Bhandar
+  Supplier_url: https://www.ankurmurtibhandar.com/?pos=17&kwd=chandra%20shekhar&tags=A||||8692.544|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Alwar
+  Rating: 3
+  Product_id: 23540461833
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2022/12/WM/RD/YK/37342409/subhash-chandra-bose-250x250.jpg
+--------------------------------------------------
+Product 18:
+  Name: White Subhash Chandra Bose Marble Statue, For Decoration, Size: 2 Feet
+  Product_url: https://www.indiamart.com/proddetail/subhash-chandra-bose-marble-statue-2854737331733.html?pos=18&kwd=chandra%20shekhar&tags=A||||8692.544|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=4
+  Price: 35,000
+  Supplier: JK Marble Art
+  Supplier_url: https://www.indiamart.com/jkmarbleart/?pos=18&kwd=chandra%20shekhar&tags=A||||8692.544|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Alwar
+  Rating: 4.6
+  Product_id: 2854737331733
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2024/8/445951782/BU/HW/MJ/92910560/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 19:
+  Name: White Subhash Chandra Bose Marble Statue, For Worship, Size: 6 Feet
+  Product_url: https://www.indiamart.com/proddetail/subhash-chandra-bose-marble-statue-2850086355873.html?pos=19&kwd=chandra%20shekhar&tags=A||||8601.347|Price|product|||LSnp|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=4
+  Price: 95,000
+  Supplier: Kavistha Moorti Bhandar
+  Supplier_url: https://www.marblemoorti.net/?pos=19&kwd=chandra%20shekhar&tags=A||||8601.347|Price|product|||LSnp|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Jaipur
+  Rating: 4.6
+  Product_id: 2850086355873
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2023/2/WJ/LP/DL/21363747/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 20:
+  Name: White Marble stone granite shubhash Chandra Bose statue, Outdoor, Size: 6 Feet
+  Product_url: https://www.indiamart.com/proddetail/marble-stone-granite-shubhash-chandra-bose-statue-2851666506297.html?pos=20&kwd=chandra%20shekhar&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4|r=4
+  Price: 1,30,000
+  Supplier: jamwai arts
+  Supplier_url: https://www.jamwai.com/?pos=20&kwd=chandra%20shekhar&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC2|ktp:N0|stype:attr=1-br|mtp:G|wc:1|qr_nm:gd|cs:13455|com-cf:lw|ptrs:na|mc:9873|cat:120|qry_typ:P|lang:en|rtn:1-0-0-0-3-6-0|qrd:250415|mrd:250202|prdt:250415|v=4
+  Location: Jaipur
+  Rating: 4.5
+  Product_id: 2851666506297
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2023/7/321701533/RY/SF/MH/90156341/product-jpeg-250x250.jpg
+--------------------------------------------------

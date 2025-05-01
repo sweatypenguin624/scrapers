@@ -1,0 +1,220 @@
+Search Query: oreo
+Timestamp: 2025-04-14 22:05:15
+Total Products Scraped: 20
+
+Scraped Products:
+--------------------------------------------------
+Product 1:
+  Name: Oreo Chocolate Biscuits, Packaging Type: Packet
+  Product_url: https://www.indiamart.com/proddetail/oreo-chocolate-biscuits-27122586630.html?pos=1&kwd=oreo&tags=A||||8663.873|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4|r=5
+  Price: 240
+  Supplier: Gopal Trading Co.
+  Supplier_url: https://www.indiamart.com/gopal-tradingco/?pos=1&kwd=oreo&tags=A||||8663.873|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4
+  Location: Bengaluru
+  Rating: 5
+  Product_id: 27122586630
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/3/497011062/DX/NL/XX/19914532/oreo-chocolate-biscuits-250x250.jpeg
+--------------------------------------------------
+Product 2:
+  Name: Vanilla Cream Biscuits Oreo Original Sandwich Biscuit, 119gm, Packaging Type: Box
+  Product_url: https://www.indiamart.com/proddetail/oreo-original-sandwich-biscuit-119gm-2855772979033.html?pos=2&kwd=oreo&tags=BA||||8741.812|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4|r=3
+  Price: 100
+  Supplier: Ambrosiyadotin International Private Limited
+  Supplier_url: https://www.indiamart.com/ambrosiyadotininternational/?pos=2&kwd=oreo&tags=BA||||8741.812|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4
+  Location: Gurugram
+  Rating: 3.8
+  Product_id: 2855772979033
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/2/488158992/VA/JZ/XL/132634672/oreo-original-sandwich-biscuit-154g-250x250.png
+--------------------------------------------------
+Product 3:
+  Name: Cream Biscuits Oreo mini 10x Original/chocolate/strawberry, Packaging Type: Box
+  Product_url: https://www.indiamart.com/proddetail/oreo-mini-10x-original-chocolate-strawberry-2850610559297.html?pos=3&kwd=oreo&tags=BA||||8211.142|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4|r=2
+  Price: 200
+  Supplier: Easy Access
+  Supplier_url: https://www.indiamart.com/mseasyaccess/?pos=3&kwd=oreo&tags=BA||||8211.142|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4
+  Location: Mumbai
+  Rating: 2.7
+  Product_id: 2850610559297
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2023/3/296334765/WK/BE/TY/50803673/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 4:
+  Name: Vanilla Oreo Mini Biscuits, Packaging Type: Box
+  Product_url: https://www.indiamart.com/proddetail/oreo-mini-biscuits-2850797675573.html?pos=4&kwd=oreo&tags=BA||||8663.873|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4|r=4
+  Price: 200
+  Supplier: Meenakshi Marketing
+  Supplier_url: https://www.indiamart.com/meenakshi-marketing-bengaluru/?pos=4&kwd=oreo&tags=BA||||8663.873|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4
+  Location: Bengaluru
+  Rating: 4.1
+  Product_id: 2850797675573
+  Image_url: https://5.imimg.com/data5/IOS/Default/2023/4/300096517/ZT/DU/DK/18339648/product-jpeg-250x250.png
+--------------------------------------------------
+Product 5:
+  Name: Demo Lens Oreo
+  Product_url: https://www.indiamart.com/proddetail/oreo-2851273111797.html?pos=5&kwd=oreo&tags=BA||||8223.226||product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4|r=4
+  Supplier: Jayantilal H. Gandhi
+  Supplier_url: https://www.indiamart.com/jayantilalhgandhi/?pos=5&kwd=oreo&tags=BA||||8223.226||product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4
+  Location: Thane
+  Rating: 4.3
+  Product_id: 2851273111797
+  Image_url: https://5.imimg.com/data5/SELLER/PDFImage/2023/5/310614120/QS/RO/OZ/8841811/oreo-23-01-2023-250x250.png
+--------------------------------------------------
+Product 6:
+  Name: Oreo Mini Oreo Original Biscuit
+  Product_url: https://www.indiamart.com/proddetail/oreo-mini-oreo-original-biscuit-2853597024730.html?pos=6&kwd=oreo&tags=BA||||8752.144|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4|r=4
+  Price: 175
+  Supplier: Aryan Traders
+  Supplier_url: https://www.indiamart.com/aryan-tradersdelhi/?pos=6&kwd=oreo&tags=BA||||8752.144|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4
+  Location: New Delhi
+  Rating: 4.1
+  Product_id: 2853597024730
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/3/396869157/RT/RN/BJ/78082535/oreo-mini-oreo-original-biscuit-250x250.jpg
+--------------------------------------------------
+Product 7:
+  Name: Oreo Chocolate Creme Biscuit Pack, Packaging Size: 120 G
+  Product_url: https://www.indiamart.com/proddetail/oreo-chocolate-creme-biscuit-26936605212.html?pos=7&kwd=oreo&tags=BA||||8834.002|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4|r=4
+  Price: 40
+  Supplier: Arumugha Traders
+  Supplier_url: https://www.indiamart.com/arumugha-traders/?pos=7&kwd=oreo&tags=BA||||8834.002|Price|product|||MDC|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4
+  Location: Tirukkoyilur
+  Rating: 4
+  Product_id: 26936605212
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/11/463624753/WL/OI/CE/106320008/motor-vehicles-250x250.jpg
+--------------------------------------------------
+Product 8:
+  Name: oreo roastila
+  Product_url: https://www.indiamart.com/proddetail/oreo-roastila-2851507180012.html?pos=8&kwd=oreo&tags=BA||||7937.187||product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4|r=4
+  Supplier: Khavda Sweet And Farsan Mart
+  Supplier_url: https://www.indiamart.com/khavdasweetfarsanmart/?pos=8&kwd=oreo&tags=BA||||7937.187||product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4
+  Location: Bhuj
+  Rating: 4.8
+  Product_id: 2851507180012
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/10/355440476/QZ/LC/XL/97664651/oreo-roastila-250x250.jpeg
+--------------------------------------------------
+Product 9:
+  Name: Cadbury Choco Creme Oreo Chocolate Sandwich Biscuits
+  Product_url: https://www.indiamart.com/proddetail/cadbury-choco-creme-oreo-chocolate-sandwich-biscuits-2850260989997.html?pos=9&kwd=oreo&tags=BA||||8752.144|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4|r=3
+  Price: 28
+  Supplier: JBS Enterprises
+  Supplier_url: https://www.indiamart.com/jbsenterprises-delhiindia/?pos=9&kwd=oreo&tags=BA||||8752.144|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4
+  Location: New Delhi
+  Rating: 3.6
+  Product_id: 2850260989997
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/2/KK/GK/YQ/144328445/20230214-180848-250x250.jpg
+--------------------------------------------------
+Product 10:
+  Name: Cream Biscuits Chocolate Cadbury Oreo Biscuites
+  Product_url: https://www.indiamart.com/proddetail/cadbury-oreo-biscuites-2853169197330.html?pos=10&kwd=oreo&tags=BA||||8752.144|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4|r=4
+  Price: 10
+  Supplier: Kwality Corner
+  Supplier_url: https://www.indiamart.com/kwality-corner/?pos=10&kwd=oreo&tags=BA||||8752.144|Price|product|||TS|rsf:gd-|-res:RC3|ktp:N0|mtp:Brn|wc:1|qr_nm:gd|cs:12046|com-cf:nl|ptrs:na|mc:216348|cat:801|qry_typ:P|lang:en|flavl:0-1|rtn:0-0-0-1-2-6-1|qrd:250413|mrd:250413|prdt:250414|v=4
+  Location: New Delhi
+  Rating: 4.1
+  Product_id: 2853169197330
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2024/1/373664671/GV/CA/JN/27272597/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 11:
+  Name: Cream Biscuits 20gm Cadbury Oreo Original Vanilla Creme Biscuit, Packaging Type: Box
+  Product_url: https://www.indiamart.com/proddetail/20gm-cadbury-oreo-original-vanilla-creme-biscuit-2851868574330.html?pos=11&kwd=oreo&tags=BA||||8211.142|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=3
+  Price: 18
+  Supplier: Food Crafterz
+  Supplier_url: https://www.indiamart.com/food-crafterz/?pos=11&kwd=oreo&tags=BA||||8211.142|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Mumbai
+  Rating: 3.8
+  Product_id: 2851868574330
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/7/329269380/XR/ND/XF/48534106/719rjslxsxl-sl1500-250x250.jpg
+--------------------------------------------------
+Product 12:
+  Name: Oreo Orange Cream Biscuit
+  Product_url: https://www.indiamart.com/proddetail/oreo-orange-cream-biscuit-2855355568797.html?pos=12&kwd=oreo&tags=BA||||8211.142|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 35
+  Supplier: Neo Delight Foods
+  Supplier_url: https://www.indiamart.com/neo-delight-foods/?pos=12&kwd=oreo&tags=BA||||8211.142|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Mumbai
+  Rating: 4.4
+  Product_id: 2855355568797
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/12/476501314/LG/TC/KQ/236698204/oreo-orange-cream-biscuit-250x250.jpg
+--------------------------------------------------
+Product 13:
+  Name: Cream Biscuits Oreo Cadbury Strawberry Flavour Creme Sandwich Biscuit, Packaging Type: Packet
+  Product_url: https://www.indiamart.com/proddetail/oreo-cadbury-strawberry-flavour-creme-sandwich-biscuit-2855277424488.html?pos=13&kwd=oreo&tags=BA||||8741.812|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=3
+  Price: 10
+  Supplier: Shree Balaji Store
+  Supplier_url: https://www.indiamart.com/shreebalajistore-haryana/?pos=13&kwd=oreo&tags=BA||||8741.812|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Gurugram
+  Rating: 3.9
+  Product_id: 2855277424488
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/11/464992688/NS/OF/UD/93659214/oreo-cadbury-strawberry-flavour-creme-sandwich-biscuit-250x250.jpg
+--------------------------------------------------
+Product 14:
+  Name: Cream Biscuits Chocolate Cadbury Oreo Biscuites, Packaging Type: Box, Packaging Size: 120 Pieces
+  Product_url: https://www.indiamart.com/proddetail/cadbury-oreo-biscuites-2854324661755.html?pos=14&kwd=oreo&tags=BA||||8786.56||product|||MDC|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Supplier: Bhawani Marketing
+  Supplier_url: https://www.indiamart.com/bhawanimarketing-hyderabad/?pos=14&kwd=oreo&tags=BA||||8786.56||product|||MDC|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Hyderabad
+  Rating: 4.1
+  Product_id: 2854324661755
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/6/429502163/RX/DF/BR/61295469/whatsapp-image-2024-06-19-at-10-03-31-am-1-250x250.jpeg
+--------------------------------------------------
+Product 15:
+  Name: Chococreme Oreo Chocolatey Sandwich Biscuit, Packaging Type: Packet
+  Product_url: https://www.indiamart.com/proddetail/chococreme-oreo-chocolatey-sandwich-biscuit-2850843245312.html?pos=15&kwd=oreo&tags=BA||||8143.1675||product|||NA|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Supplier: Rajan Agencie
+  Supplier_url: https://www.indiamart.com/rajan-agencie/?pos=15&kwd=oreo&tags=BA||||8143.1675||product|||NA|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Limbdi
+  Rating: 4
+  Product_id: 2850843245312
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/4/303548448/IE/YI/VB/140954825/cadbury-chocolate-250x250.jpeg
+--------------------------------------------------
+Product 16:
+  Name: Chocolate,Strawberry Oreo Mini Cup Cream Filled Biscuit
+  Product_url: https://www.indiamart.com/proddetail/oreo-mini-cup-cream-filled-biscuit-2854288245448.html?pos=16&kwd=oreo&tags=BA||||8785.791|Price|product|||NA|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=3
+  Price: 85
+  Supplier: S.K Trading Company
+  Supplier_url: https://www.indiamart.com/sktradingcompanyghaziabad/?pos=16&kwd=oreo&tags=BA||||8785.791|Price|product|||NA|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Ghaziabad
+  Rating: 3.4
+  Product_id: 2854288245448
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/6/427988050/VB/LX/SL/183776947/whatsapp-image-2024-06-18-at-13-56-30-250x250.jpeg
+--------------------------------------------------
+Product 17:
+  Name: Oreo Mini Strawberry Cream Biscuit Cup 67gm
+  Product_url: https://www.indiamart.com/proddetail/oreo-mini-strawberry-cream-biscuit-cup-67gm-2850592918930.html?pos=17&kwd=oreo&tags=BB||||8211.142||product|||NA|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Supplier: Snack Time
+  Supplier_url: https://www.indiamart.com/snack-time-mumbai/?pos=17&kwd=oreo&tags=BB||||8211.142||product|||NA|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Mumbai
+  Product_id: 2850592918930
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2023/3/295995250/VA/YF/QD/113714032/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 18:
+  Name: Chocolate Oreo Mini Cream Filled Sandwich Biscuits, Packaging Type: Jar, Packaging Size: Pack Of 2
+  Product_url: https://www.indiamart.com/proddetail/oreo-mini-cream-filled-sandwich-biscuits-2855196129712.html?pos=18&kwd=oreo&tags=BA||||8211.142|Price|product|||NA|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=3
+  Price: 200
+  Supplier: Mask Enterprises
+  Supplier_url: https://www.indiamart.com/maskenterprisesmumbai/?pos=18&kwd=oreo&tags=BA||||8211.142|Price|product|||NA|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Mumbai
+  Rating: 3.2
+  Product_id: 2855196129712
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/11/464166548/UB/YH/MP/147717991/oreo-mini-cream-filled-sandwich-biscuits-250x250.png
+--------------------------------------------------
+Product 19:
+  Name: Chocolate Oreo Soft Cake Pack, Packaging Type: Box, Packaging Size: 12 Pieces
+  Product_url: https://www.indiamart.com/proddetail/oreo-soft-cake-pack-26429392730.html?pos=19&kwd=oreo&tags=BB||||8752.144|Price|product|||NA|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=5
+  Price: 200/Box
+  Supplier: S.J Trading Company
+  Supplier_url: https://www.indiamart.com/sj-tradingcompany-newdelhi/?pos=19&kwd=oreo&tags=BB||||8752.144|Price|product|||NA|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: New Delhi
+  Rating: 5
+  Product_id: 26429392730
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2022/8/WQ/TM/VT/112066536/oreo-soft-cake-pack-250x250.jpg
+--------------------------------------------------
+Product 20:
+  Name: Graham Oreo S Mores Biscuits, Packaging Type: Packet
+  Product_url: https://www.indiamart.com/proddetail/oreo-s-mores-biscuits-2851723313533.html?pos=20&kwd=oreo&tags=BB||||8663.873|Price|product|||NA|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=3
+  Price: 12
+  Supplier: Adiyogi Trading Co.
+  Supplier_url: https://www.indiamart.com/adiyogitrading/?pos=20&kwd=oreo&tags=BB||||8663.873|Price|product|||NA|rsf:gd-|-qr_nm:gd|cs:11302|res:RC3|com-cf:nl|ptrs:na|ktp:N0|mc:216348|cat:801|mtp:Brn|qry_typ:P|lang:en|wc:1|rtn:1-0-0-0-5-3-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Bengaluru
+  Rating: 3.5
+  Product_id: 2851723313533
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/7/323261624/JA/ZS/PE/192118753/whatsapp-image-2023-07-07-at-11-29-32-250x250.jpeg
+--------------------------------------------------

@@ -1,0 +1,222 @@
+Search Query: samsung tv
+Timestamp: 2025-04-16 00:08:37
+Total Products Scraped: 20
+
+Scraped Products:
+--------------------------------------------------
+Product 1:
+  Name: Samsung Led Tv, 55 inches
+  Product_url: https://www.indiamart.com/proddetail/samsung-led-tv-24186552548.html?pos=1&kwd=samsung%20tv&tags=A||||8752.144|Price|product|||LSnp|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4|r=3
+  Price: 35,840
+  Supplier: A.S.Enterprises
+  Supplier_url: https://www.indiamart.com/as-enterprise-newdelhi/?pos=1&kwd=samsung%20tv&tags=A||||8752.144|Price|product|||LSnp|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: New Delhi
+  Rating: 3.8
+  Product_id: 24186552548
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2021/11/MA/EI/HU/69654469/hg50at690-250x250.jpg
+--------------------------------------------------
+Product 2:
+  Name: Samsung BE43D-H Business TV
+  Product_url: https://www.indiamart.com/proddetail/samsung-be43d-h-business-tv-2855130894930.html?pos=2&kwd=samsung%20tv&tags=A||||8741.812||product|||LSnp|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4|r=3
+  Supplier: Samsung India Electronics Private Limited
+  Supplier_url: https://www.indiamart.com/samsungelectronics-india/?pos=2&kwd=samsung%20tv&tags=A||||8741.812||product|||LSnp|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Gurugram
+  Rating: 3.9
+  Product_id: 2855130894930
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/10/458629210/MP/LC/SG/11938410/1721049384-img-2287579-250x250.jpg
+--------------------------------------------------
+Product 3:
+  Name: Black IPS Samsung Led Smart Tv
+  Product_url: https://www.indiamart.com/proddetail/samsung-led-smart-tv-23459361162.html?pos=3&kwd=samsung%20tv&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4|r=4
+  Price: 27,000
+  Supplier: Jain Radio
+  Supplier_url: https://www.jainradios.co.in/?pos=3&kwd=samsung%20tv&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: New Delhi
+  Rating: 4.2
+  Product_id: 23459361162
+  Image_url: https://5.imimg.com/data5/SELLER/PDFImage/2024/10/461049811/WJ/ND/YM/22641583/samsung-led-smart-tv-250x250.png
+--------------------------------------------------
+Product 4:
+  Name: UA32T4380AKXXL Samsung LED TV, 32 inch
+  Product_url: https://www.indiamart.com/proddetail/ua32t4380akxxl-samsung-led-tv-2853587212212.html?pos=4&kwd=samsung%20tv&tags=A||||8236.946|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4|r=4
+  Price: 14,200
+  Supplier: Sree Sai Electronics
+  Supplier_url: https://www.sreesaielectronics.in.net/?pos=4&kwd=samsung%20tv&tags=A||||8236.946|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Raigad
+  Rating: 4.7
+  Product_id: 2853587212212
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/3/396399497/OM/SU/JP/128626592/samsung-ua32t4380akxxl-led-tv-250x250.jpg
+--------------------------------------------------
+Product 5:
+  Name: Samsung Led Tv 4360akxxl 15500, 32 inch
+  Product_url: https://www.indiamart.com/proddetail/samsung-led-tv-4360akxxl-15500-23057361297.html?pos=5&kwd=samsung%20tv&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4|r=3
+  Price: 15,500
+  Supplier: Sethi Pavilion
+  Supplier_url: https://www.indiamart.com/sethi-pavilion/?pos=5&kwd=samsung%20tv&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: New Delhi
+  Rating: 3.4
+  Product_id: 23057361297
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2024/10/461702283/QK/ZV/QL/65788009/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 6:
+  Name: Samsung Commercial TV DB40E, for Semi-outdoor Type
+  Product_url: https://www.indiamart.com/proddetail/samsung-commercial-tv-db40e-19500801997.html?pos=6&kwd=samsung%20tv&tags=A||||8741.812||product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4|r=4
+  Supplier: RAPID INFOTECH
+  Supplier_url: https://www.indiamart.com/rapid-infotech/?pos=6&kwd=samsung%20tv&tags=A||||8741.812||product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Gurgaon
+  Rating: 4.7
+  Product_id: 19500801997
+  Image_url: https://5.imimg.com/data5/LU/EK/MY-25035125/samsung-lfd-display-db40e-250x250.jpg
+--------------------------------------------------
+Product 7:
+  Name: Black Samsung LED TV Set
+  Product_url: https://www.indiamart.com/proddetail/samsung-led-tv-set-11879781497.html?pos=7&kwd=samsung%20tv&tags=A||||8316.457|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4|r=4
+  Price: 48,000(s)
+  Supplier: Elmech Power Controls
+  Supplier_url: https://www.indiamart.com/elmechpowercontrols/?pos=7&kwd=samsung%20tv&tags=A||||8316.457|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Nashik
+  Rating: 4
+  Product_id: 11879781497
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/7/321683654/EZ/PP/DK/9835370/samsung-led-tv-set-250x250.jpg
+--------------------------------------------------
+Product 8:
+  Name: Samsung Led Tv 32 Inch
+  Product_url: https://www.indiamart.com/proddetail/samsung-led-tv-32-inch-2855362311912.html?pos=8&kwd=samsung%20tv&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4|r=3
+  Price: 18,000
+  Supplier: Ultima Communication
+  Supplier_url: https://www.indiamart.com/ultimacommunication/?pos=8&kwd=samsung%20tv&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Jaipur
+  Rating: 3
+  Product_id: 2855362311912
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/11/468895215/MG/OQ/TE/15740765/samsung-led-tv-32-inch-250x250.jpg
+--------------------------------------------------
+Product 9:
+  Name: Samsung Commercial TV DB40E, 43 inch
+  Product_url: https://www.indiamart.com/proddetail/samsung-commercial-tv-db40e-2854292093591.html?pos=9&kwd=samsung%20tv&tags=A||||8741.812|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4|r=4
+  Price: 38,000
+  Supplier: Seasoned Technologies
+  Supplier_url: https://www.indiamart.com/seasoned-technologies/?pos=9&kwd=samsung%20tv&tags=A||||8741.812|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Gurugram
+  Rating: 4
+  Product_id: 2854292093591
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/6/428149943/MT/PF/BV/137578576/samsung-commercial-tv-db40e-250x250.jpeg
+--------------------------------------------------
+Product 10:
+  Name: HG49AJ690 Samsung LED TV 49 Inch
+  Product_url: https://www.indiamart.com/proddetail/hg49aj690-samsung-led-tv-49-inch-22893826530.html?pos=10&kwd=samsung%20tv&tags=A||||8741.812|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4|r=4
+  Price: 24,000
+  Supplier: Asian Global Solution
+  Supplier_url: https://www.indiamart.com/asianglobalsolutions/?pos=10&kwd=samsung%20tv&tags=A||||8741.812|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:14135|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-4-6-0|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Gurgaon
+  Rating: 4.1
+  Product_id: 22893826530
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2020/11/IK/NE/GM/15366932/samsung-hospitality-tv-49-hg49aj690-01-700x550-250x250.jpg
+--------------------------------------------------
+Product 11:
+  Name: Black Samsung Led Hd Tv
+  Product_url: https://www.indiamart.com/proddetail/samsung-led-hd-tv-9204504155.html?pos=11&kwd=samsung%20tv&tags=A||||8580.032|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4|r=3
+  Price: 40,000
+  Supplier: Bhagwati Agencies
+  Supplier_url: https://www.indiamart.com/bhagwatiagencies/?pos=11&kwd=samsung%20tv&tags=A||||8580.032|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Amritsar
+  Rating: 3.5
+  Product_id: 9204504155
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2021/12/ZG/PG/MZ/10550088/lcd-television-250x250.jpg
+--------------------------------------------------
+Product 12:
+  Name: 43C655 Samsung LED TV, 43 inch
+  Product_url: https://www.indiamart.com/proddetail/43c655-samsung-led-tv-2856290895488.html?pos=12&kwd=samsung%20tv&tags=A||||8663.873|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4|r=5
+  Price: 29,900
+  Supplier: Glocal Electronics Private Limited
+  Supplier_url: https://www.indiamart.com/glocal-electronics-private-limited/?pos=12&kwd=samsung%20tv&tags=A||||8663.873|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Bengaluru
+  Rating: 5
+  Product_id: 2856290895488
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/3/499414147/GB/JN/WB/200192125/43c655-tcl-led-tv-250x250.jpg
+--------------------------------------------------
+Product 13:
+  Name: Samsung LED TV, Screen Size: 55 inch, Model: ST550K-55
+  Product_url: https://www.indiamart.com/proddetail/samsung-led-tv-19445648112.html?pos=13&kwd=samsung%20tv&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4|r=3
+  Price: 75,000
+  Supplier: Worldd AV Solution
+  Supplier_url: https://www.indiamart.com/worlddavsolution/?pos=13&kwd=samsung%20tv&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Mumbai
+  Rating: 3.8
+  Product_id: 19445648112
+  Image_url: https://5.imimg.com/data5/FX/FL/NO/SELLER-34292287/samsung-led-tv-250x250.jpg
+--------------------------------------------------
+Product 14:
+  Name: Samsung LED TV, 32 inch
+  Product_url: https://www.indiamart.com/proddetail/samsung-led-tv-2854868514312.html?pos=14&kwd=samsung%20tv&tags=A||||8663.873|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4|r=3
+  Price: 17,999
+  Supplier: B.S.Infotech
+  Supplier_url: https://www.indiamart.com/bs-infotech/?pos=14&kwd=samsung%20tv&tags=A||||8663.873|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Bengaluru
+  Rating: 3.4
+  Product_id: 2854868514312
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/9/450124641/QI/BP/PT/13381211/samsung-led-tv-250x250.webp
+--------------------------------------------------
+Product 15:
+  Name: 32 Inch Samsung LED TV
+  Product_url: https://www.indiamart.com/proddetail/32-inch-samsung-led-tv-2853999167148.html?pos=15&kwd=samsung%20tv&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4|r=4
+  Price: 19,000
+  Supplier: Prizmatic Corporates
+  Supplier_url: https://www.indiamart.com/prizmatic-corporates/?pos=15&kwd=samsung%20tv&tags=A||||8211.142|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Mumbai
+  Rating: 4.5
+  Product_id: 2853999167148
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/5/415271195/SK/LD/ZP/7598060/ls32cmsooewxxl-samsung-monitor-250x250.jpg
+--------------------------------------------------
+Product 16:
+  Name: Samsung LED TV, 43 inch
+  Product_url: https://www.indiamart.com/proddetail/samsung-led-tv-2854353114688.html?pos=16&kwd=samsung%20tv&tags=A||||8580.032|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4|r=3
+  Price: 31,900
+  Supplier: Navyug Enterprises
+  Supplier_url: https://www.indiamart.com/navyugenterprisesamritsar/?pos=16&kwd=samsung%20tv&tags=A||||8580.032|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Amritsar
+  Rating: 3.9
+  Product_id: 2854353114688
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2024/6/430709005/KS/IH/GS/220460479/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 17:
+  Name: Wall Mount Samsung LED TV BU8000 75 INCH 4K SMART
+  Product_url: https://www.indiamart.com/proddetail/samsung-led-tv-bu8000-75-inch-4k-smart-24925308255.html?pos=17&kwd=samsung%20tv&tags=A||||8228.275|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4|r=4
+  Price: 1,40,000
+  Supplier: Sangita Enterprise
+  Supplier_url: https://www.sangitaenterprise.co.in/?pos=17&kwd=samsung%20tv&tags=A||||8228.275|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Ahmedabad
+  Rating: 4.4
+  Product_id: 24925308255
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2022/2/MN/CF/ZR/38941546/samsung-uhd-tv-250x250.jpeg
+--------------------------------------------------
+Product 18:
+  Name: Black Moving Stand Samsung LED TV, Screen Size: 40 ", Dolly
+  Product_url: https://www.indiamart.com/proddetail/samsung-led-tv-26138576612.html?pos=18&kwd=samsung%20tv&tags=A||||8954.051|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4|r=4
+  Price: 39,994
+  Supplier: Abirami Audios & Videos
+  Supplier_url: https://www.indiamart.com/abirami-audios-videos/?pos=18&kwd=samsung%20tv&tags=A||||8954.051|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Chennai
+  Rating: 4.5
+  Product_id: 26138576612
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2022/7/FK/HS/QO/3394345/samsung-led-tv-ua40f5100ar-250x250.jpg
+--------------------------------------------------
+Product 19:
+  Name: Samsung Led Tv
+  Price: 14,390
+  Supplier: Supreme Traders
+  Supplier_url: https://www.indiamart.com/supremetraderssouthdelhi/?pos=19&kwd=samsung%20tv&tags=A||||8752.144|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: New Delhi
+  Product_id: 2855959383048
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2025/3/494217825/TB/PL/EU/140247524/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 20:
+  Name: Samsung LED TV
+  Product_url: https://www.indiamart.com/proddetail/samsung-led-tv-2852058718830.html?pos=20&kwd=samsung%20tv&tags=A||||8559.269|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4|r=4
+  Price: 32,000
+  Supplier: Gupta Sales Group
+  Supplier_url: https://www.indiamart.com/guptasalesgroup/?pos=20&kwd=samsung%20tv&tags=A||||8559.269|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:1|qr_nm:gd|cs:13356|com-cf:nl|ptrs:na|mc:184300|cat:762|qry_typ:P|lang:en|rtn:1-0-0-0-4-4-1|qrd:250416|mrd:250416|prdt:250416|v=4
+  Location: Indore
+  Rating: 4
+  Product_id: 2852058718830
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2023/12/366801900/HX/NH/CY/72090224/product-jpeg-250x250.jpg
+--------------------------------------------------

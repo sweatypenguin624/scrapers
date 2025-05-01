@@ -1,0 +1,225 @@
+Search Query: cotton shirts
+Timestamp: 2025-04-14 22:49:34
+Total Products Scraped: 20
+
+Scraped Products:
+--------------------------------------------------
+Product 1:
+  Name: Men Lafar Cotton Printed Shirt, Full Sleeves, Casual Wear
+  Product_url: https://www.indiamart.com/proddetail/men-lafar-cotton-printed-shirt-2853166621348.html?pos=1&kwd=cotton%20shirts&tags=A||||8230.883|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 160
+  Supplier: MR Fashion Factory
+  Supplier_url: https://www.mrfashionfactory.com/?pos=1&kwd=cotton%20shirts&tags=A||||8230.883|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Surat
+  Rating: 4.5
+  Product_id: 2853166621348
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/1/373659080/YM/DF/JD/105169109/lafar-mens-shirt-250x250.jpeg
+--------------------------------------------------
+Product 2:
+  Name: Mens Printed Cotton Shirt, Casual, Half Sleeves
+  Product_url: https://www.indiamart.com/proddetail/mens-printed-cotton-shirt-2853890575612.html?pos=2&kwd=cotton%20shirts&tags=A||||8706.587|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 280
+  Supplier: KPS Garments
+  Supplier_url: https://www.indiamart.com/kps-garments-madurai/?pos=2&kwd=cotton%20shirts&tags=A||||8706.587|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Madurai
+  Rating: 4.1
+  Product_id: 2853890575612
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/4/410130701/VW/OO/GQ/88488549/img-20240413-wa0007-250x250.jpg
+--------------------------------------------------
+Product 3:
+  Name: Plain Men Designer Cotton Shirt, Casual, Full Sleeves
+  Product_url: https://www.indiamart.com/proddetail/men-designer-cotton-shirt-20994449848.html?pos=3&kwd=cotton%20shirts&tags=A||||8663.873|Price|product|||SSnp|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=3
+  Price: 999
+  Supplier: Menz-o- Clothing
+  Supplier_url: https://www.indiamart.com/menz-o-clothing/?pos=3&kwd=cotton%20shirts&tags=A||||8663.873|Price|product|||SSnp|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Bengaluru
+  Rating: 3.9
+  Product_id: 20994449848
+  Image_url: https://5.imimg.com/data5/KU/RV/CY/SELLER-5397941/designer-shirt-250x250.jpg
+--------------------------------------------------
+Product 4:
+  Name: Men'S Printed Cotton Shirt, Casual, Full or Long sleeves
+  Product_url: https://www.indiamart.com/proddetail/men-s-printed-cotton-shirt-23781648588.html?pos=4&kwd=cotton%20shirts&tags=A||||8661.854|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=3
+  Price: 365
+  Supplier: Trade India 360 Degrees
+  Supplier_url: https://www.beingprimal.in/?pos=4&kwd=cotton%20shirts&tags=A||||8661.854|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Ludhiana
+  Rating: 3.9
+  Product_id: 23781648588
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2021/8/DI/VV/OP/3023183/mens-100-cotton-twill-digital-print-shirts-250x250.jpeg
+--------------------------------------------------
+Product 5:
+  Name: Printed Dot Print Woven Mens Cotton Casual Shirts
+  Product_url: https://www.indiamart.com/proddetail/dot-print-woven-mens-cotton-casual-shirts-23885090155.html?pos=5&kwd=cotton%20shirts&tags=A||||8668.838|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 360
+  Supplier: Sri Hari Apparels
+  Supplier_url: https://www.srihariapparels.com/?pos=5&kwd=cotton%20shirts&tags=A||||8668.838|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Erode
+  Rating: 4.7
+  Product_id: 23885090155
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2021/9/MT/LP/CX/64777441/dot-print-woven-mens-cotton-casual-shirts-250x250.png
+--------------------------------------------------
+Product 6:
+  Name: Mens Poly Cotton Printed Shirts, Party-wear, Full Sleeves
+  Product_url: https://www.indiamart.com/proddetail/mens-poly-cotton-printed-shirts-2851705594773.html?pos=6&kwd=cotton%20shirts&tags=A||||8230.883|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 260
+  Supplier: BK Brand
+  Supplier_url: https://www.indiamart.com/bk-brand/?pos=6&kwd=cotton%20shirts&tags=A||||8230.883|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Surat
+  Rating: 4.6
+  Product_id: 2851705594773
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/7/322968884/LT/IG/GX/191161900/whatsapp-image-2023-07-06-at-3-17-44-pm-250x250.jpeg
+--------------------------------------------------
+Product 7:
+  Name: Stripes Mens Fancy Cotton Shirt, Party-wear, Full Sleeves
+  Product_url: https://www.indiamart.com/proddetail/mens-fancy-cotton-shirt-25689402891.html?pos=7&kwd=cotton%20shirts&tags=A||||8754.115|Price|product|||SSnp|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 230
+  Supplier: H & R Creations
+  Supplier_url: https://www.indiamart.com/h-r-creations/?pos=7&kwd=cotton%20shirts&tags=A||||8754.115|Price|product|||SSnp|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Panchkula
+  Rating: 4.1
+  Product_id: 25689402891
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2022/5/DB/CB/YH/23374730/prod-20220519-2217307471434977460512609-jpg-250x250.jpg
+--------------------------------------------------
+Product 8:
+  Name: Cotton Shirt, Full sleeves
+  Product_url: https://www.indiamart.com/proddetail/cotton-shirt-3606343897.html?pos=8&kwd=cotton%20shirts&tags=A||||8228.275|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 350
+  Supplier: Cotton Climate
+  Supplier_url: https://www.indiamart.com/cotton-climate/?pos=8&kwd=cotton%20shirts&tags=A||||8228.275|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Ahmedabad
+  Rating: 4.3
+  Product_id: 3606343897
+  Image_url: https://5.imimg.com/data5/TE/ID/WO/SELLER-3513561/cotton-shirt-250x250.jpg
+--------------------------------------------------
+Product 9:
+  Name: Men Fancy Cotton Printed Shirt, Casual
+  Product_url: https://www.indiamart.com/proddetail/men-fancy-cotton-printed-shirt-23888073348.html?pos=9&kwd=cotton%20shirts&tags=A||||8331.224|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 200
+  Supplier: Khushi Texcom
+  Supplier_url: https://www.indiamart.com/khushi-texcom/?pos=9&kwd=cotton%20shirts&tags=A||||8331.224|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Kolhapur
+  Rating: 4.2
+  Product_id: 23888073348
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2021/9/VU/VC/MI/120120250/swp-740f-250x250.jpg
+--------------------------------------------------
+Product 10:
+  Name: Cotton Printed Shirt
+  Product_url: https://www.indiamart.com/proddetail/cotton-printed-shirt-16095211933.html?pos=10&kwd=cotton%20shirts&tags=A||||8663.873|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 330
+  Supplier: Crude Cotton
+  Supplier_url: https://www.indiamart.com/crude-cotton/?pos=10&kwd=cotton%20shirts&tags=A||||8663.873|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13924|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|flavl:0-10|rtn:0-0-0-0-2-8-0|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Bengaluru
+  Rating: 4.2
+  Product_id: 16095211933
+  Image_url: https://5.imimg.com/data5/RF/AX/MY-45340984/cotton-printed-shirt-250x250.jpg
+--------------------------------------------------
+Product 11:
+  Name: Men Cotton printed shirt
+  Product_url: https://www.indiamart.com/proddetail/men-cotton-printed-shirt-2856276833591.html?pos=11&kwd=cotton%20shirts&tags=A||||8230.883|Price|product|||SSnp|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=3
+  Price: 400
+  Supplier: R.J. Fashion Hub
+  Supplier_url: https://www.indiamart.com/rjfashion-hub/?pos=11&kwd=cotton%20shirts&tags=A||||8230.883|Price|product|||SSnp|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Surat
+  Rating: 3.8
+  Product_id: 2856276833591
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2025/3/498398689/MB/IZ/VW/146763579/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 12:
+  Name: Printed Men Cotton Shirts, Casual, Full Sleeves
+  Product_url: https://www.indiamart.com/proddetail/men-cotton-shirts-2852893452955.html?pos=12&kwd=cotton%20shirts&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=3
+  Price: 350
+  Supplier: V. K. Emporium & Textiles
+  Supplier_url: https://www.vkemporium.com/?pos=12&kwd=cotton%20shirts&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Jaipur
+  Rating: 3.2
+  Product_id: 2852893452955
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/11/362005201/BW/FS/NP/39077357/whatsapp-image-2023-11-17-at-04-48-16-1-250x250.jpeg
+--------------------------------------------------
+Product 13:
+  Name: Plain Men's Corporate Cotton Shirt, Formal Wear
+  Product_url: https://www.indiamart.com/proddetail/men-s-corporate-cotton-shirt-21148415362.html?pos=13&kwd=cotton%20shirts&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 400
+  Supplier: Prihana Fashions Private Limited
+  Supplier_url: https://www.indiamart.com/prihanafashions/?pos=13&kwd=cotton%20shirts&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: New Delhi
+  Rating: 4.4
+  Product_id: 21148415362
+  Image_url: https://5.imimg.com/data5/CQ/LD/AQ/SELLER-57264245/mens-corporate-cotton-shirt-250x250.jpg
+--------------------------------------------------
+Product 14:
+  Name: Printed Sanganeri Print Cotton Shirt, Formal, Half Sleeves
+  Product_url: https://www.indiamart.com/proddetail/sanganeri-print-cotton-shirt-2853715038497.html?pos=14&kwd=cotton%20shirts&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=5
+  Price: 240
+  Supplier: Namdev Textile
+  Supplier_url: https://www.indiamart.com/namdevtextile-jaipur/?pos=14&kwd=cotton%20shirts&tags=A||||8601.347|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Jaipur
+  Rating: 5
+  Product_id: 2853715038497
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/3/404168450/GK/DK/RS/214242840/whatsapp-image-2024-03-26-at-11-38-44-am-250x250.jpeg
+--------------------------------------------------
+Product 15:
+  Name: Cotton Plain Shirt
+  Product_url: https://www.indiamart.com/proddetail/cotton-plain-shirt-2855236456288.html?pos=15&kwd=cotton%20shirts&tags=A||||9839.57|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 450
+  Supplier: R S Garments
+  Supplier_url: https://www.indiamart.com/rsgarments/?pos=15&kwd=cotton%20shirts&tags=A||||9839.57|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Kolkata
+  Rating: 4.2
+  Product_id: 2855236456288
+  Image_url: https://5.imimg.com/data5/IOS/Default/2024/11/463121642/HI/VX/IA/1403527/product-jpeg-250x250.png
+--------------------------------------------------
+Product 16:
+  Name: Plain Men Cotton Shirts
+  Product_url: https://www.indiamart.com/proddetail/men-cotton-shirts-26767839488.html?pos=16&kwd=cotton%20shirts&tags=A||||8663.873|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 1,2991
+  Supplier: Cocoon Apparels
+  Supplier_url: https://www.cocoonapparels.co.in/?pos=16&kwd=cotton%20shirts&tags=A||||8663.873|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Bengaluru
+  Rating: 4.1
+  Product_id: 26767839488
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2022/9/WG/DR/PG/4659130/3-250x250.jpg
+--------------------------------------------------
+Product 17:
+  Name: Mens Cotton Shirts, Full Sleeves
+  Product_url: https://www.indiamart.com/proddetail/mens-cotton-shirts-2852404099448.html?pos=17&kwd=cotton%20shirts&tags=A||||8228.275|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 250
+  Supplier: Hasmukh Creation
+  Supplier_url: https://www.indiamart.com/hasmukhcreation/?pos=17&kwd=cotton%20shirts&tags=A||||8228.275|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Ahmedabad
+  Rating: 4.4
+  Product_id: 2852404099448
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2023/12/367739901/GU/EY/GP/189366331/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 18:
+  Name: Check Men Cotton Shirts, Party-wear, Full Sleeves
+  Product_url: https://www.indiamart.com/proddetail/men-cotton-shirts-12730390862.html?pos=18&kwd=cotton%20shirts&tags=A||||8663.873|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=4
+  Price: 350
+  Supplier: Priyadarshini Enterprises
+  Supplier_url: https://www.rjmenshirts.com/?pos=18&kwd=cotton%20shirts&tags=A||||8663.873|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Bengaluru
+  Rating: 4
+  Product_id: 12730390862
+  Image_url: https://4.imimg.com/data4/AL/JX/MY-22166305/img-20160626-wa0028-250x250.jpg
+--------------------------------------------------
+Product 19:
+  Name: Men''S Corporate Cotton Shirts
+  Product_url: https://www.indiamart.com/proddetail/men-s-corporate-cotton-shirts-19333351312.html?pos=19&kwd=cotton%20shirts&tags=A||||8778.123|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4|r=3
+  Price: 399
+  Supplier: Csi Enterprises
+  Supplier_url: https://www.indiamart.com/csienterprises-noida/?pos=19&kwd=cotton%20shirts&tags=A||||8778.123|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: Noida
+  Rating: 3.7
+  Product_id: 19333351312
+  Image_url: https://5.imimg.com/data5/EM/BB/MY-27399423/customise-men-27s-casual-cotton-shirts-250x250.jpg
+--------------------------------------------------
+Product 20:
+  Name: Plain Men White Cotton Fancy Shirt
+  Product_url: https://www.indiamart.com/proddetail/men-white-cotton-fancy-shirt-2855666538573.html?pos=20&kwd=cotton%20shirts&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Price: 220
+  Supplier: Vikas Enterprises
+  Supplier_url: https://www.indiamart.com/vikasenterprises-delhi-india/?pos=20&kwd=cotton%20shirts&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|stype:attr=1|mtp:S|wc:1|qr_nm:gd|cs:13145|com-cf:nl|ptrs:na|mc:9997|cat:239|qry_typ:P|lang:en|rtn:0-0-1-0-3-5-1|qrd:250414|mrd:250414|prdt:250414|v=4
+  Location: New Delhi
+  Product_id: 2855666538573
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/2/491350360/MC/AY/RD/239967981/white-men-cotton-designer-shirt-250x250.jpg
+--------------------------------------------------

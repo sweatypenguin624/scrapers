@@ -1,0 +1,219 @@
+Search Query: pickle
+Timestamp: 2025-04-14 22:08:23
+Total Products Scraped: 20
+
+Scraped Products:
+--------------------------------------------------
+Product 1:
+  Name: Spicy Kair Pickle 500gm
+  Product_url: https://www.indiamart.com/proddetail/kair-pickle-500gm-2853519411948.html?pos=1&kwd=pickle&tags=A||||8378.498||product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4|r=4
+  Supplier: Oswal Grah Udhyog
+  Supplier_url: https://www.indiamart.com/oswal-grahudhyog-rajasthan/?pos=1&kwd=pickle&tags=A||||8378.498||product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Sojat
+  Rating: 4.4
+  Product_id: 2853519411948
+  Image_url: https://5.imimg.com/data5/ANDROID/Default/2024/2/394400944/UU/NF/RK/112502417/product-jpeg-250x250.jpg
+--------------------------------------------------
+Product 2:
+  Name: SAR Gunda Pickles, Packaging Type: Box
+  Product_url: https://www.indiamart.com/proddetail/gunda-pickles-2853528966255.html?pos=2&kwd=pickle&tags=A||||8841.674|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4|r=4
+  Price: 1,200/Kg
+  Supplier: Technomec Roorkee India Private Limited
+  Supplier_url: https://www.indiamart.com/technomecroorkeeindia/?pos=2&kwd=pickle&tags=A||||8841.674|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Roorkee
+  Rating: 4
+  Product_id: 2853528966255
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/12/366109924/XO/QB/CC/194821487/12-01-250x250.jpg
+--------------------------------------------------
+Product 3:
+  Name: Deepanjali Fresh Green Mango Pickle, 1 kg
+  Product_url: https://www.indiamart.com/proddetail/fresh-green-mango-pickle-2853305111997.html?pos=3&kwd=pickle&tags=A||||9202.365|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4|r=4
+  Price: 200/Kg
+  Supplier: Deepanjali Gramodyog
+  Supplier_url: https://www.deepanjaliamla.com/?pos=3&kwd=pickle&tags=A||||9202.365|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Pratapgarh
+  Rating: 4.5
+  Product_id: 2853305111997
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/2/382562196/CK/UZ/ED/122523075/mango-pickle-250x250.jpg
+--------------------------------------------------
+Product 4:
+  Name: Spicy Mixed Vegetable Pickle, Packaging Type: Jar, 900gm
+  Product_url: https://www.indiamart.com/proddetail/mixed-vegetable-pickle-2855937803062.html?pos=4&kwd=pickle&tags=A||||8741.987|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4
+  Price: 320/Kg
+  Supplier: Harika Natural Health Care Products
+  Supplier_url: https://www.indiamart.com/harikanaturalhealthcareproducts/?pos=4&kwd=pickle&tags=A||||8741.987|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Ambala
+  Product_id: 2855937803062
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/3/495782488/JR/PF/RS/239943321/mixed-achar-250x250.jpg
+--------------------------------------------------
+Product 5:
+  Name: Chintachiguru pickle, Packaging Size: 250 g
+  Product_url: https://www.indiamart.com/proddetail/chintachiguru-pickle-2856122025448.html?pos=5&kwd=pickle&tags=A||||8962.146|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4|r=4
+  Price: 600/Kg
+  Supplier: SRM Security Services
+  Supplier_url: https://www.indiamart.com/srm-security-services/?pos=5&kwd=pickle&tags=A||||8962.146|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Khammam
+  Rating: 4.5
+  Product_id: 2856122025448
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/3/496002300/AI/WZ/FK/110624907/whatsapp-image-2025-03-12-at-11-41-01-am-250x250.jpeg
+--------------------------------------------------
+Product 6:
+  Name: Organic Amla Pickle
+  Product_url: https://www.indiamart.com/proddetail/organic-amla-pickle-14531417530.html?pos=6&kwd=pickle&tags=A||||8584.299|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4|r=3
+  Price: 40/Gram
+  Supplier: Suriya Food Products
+  Supplier_url: https://www.indiamart.com/suriya-food-products/?pos=6&kwd=pickle&tags=A||||8584.299|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Coimbatore
+  Rating: 3.6
+  Product_id: 14531417530
+  Image_url: https://5.imimg.com/data5/BG/TK/MY-2/amla-pickle-250x250.jpg
+--------------------------------------------------
+Product 7:
+  Name: Spicy Mix Pickle, Packaging Type: Jar
+  Product_url: https://www.indiamart.com/proddetail/mix-pickle-13234132033.html?pos=7&kwd=pickle&tags=A||||8752.144||product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4|r=3
+  Supplier: Holyland Marketing Private Limited
+  Supplier_url: https://www.goldencrown.in/?pos=7&kwd=pickle&tags=A||||8752.144||product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: New Delhi
+  Rating: 3.8
+  Product_id: 13234132033
+  Image_url: https://5.imimg.com/data5/WM/QG/GR/SELLER-449985/5-kg-mix-pickle-250x250.jpg
+--------------------------------------------------
+Product 8:
+  Name: Mix Veg Mixed Vegetable Pickle, Packaging Type: Plastic Jar, 1 Kg
+  Product_url: https://www.indiamart.com/proddetail/mixed-vegetable-pickle-2855080072191.html?pos=8&kwd=pickle&tags=A||||8482.091|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4
+  Price: 90/Kg
+  Supplier: R K Spices
+  Supplier_url: https://www.indiamart.com/rkspices/?pos=8&kwd=pickle&tags=A||||8482.091|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Ajmer
+  Product_id: 2855080072191
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/1/484997391/CP/FI/EQ/233602637/mixed-vegetable-pickle-250x250.jpg
+--------------------------------------------------
+Product 9:
+  Name: Indu's Cauliflower Pickle, Packaging Type: Loose
+  Product_url: https://www.indiamart.com/proddetail/indu-s-cauliflower-pickle-2855853391633.html?pos=9&kwd=pickle&tags=A||||9289.285|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4
+  Price: 500/Kg
+  Supplier: Indu's Pickles
+  Supplier_url: https://www.indiamart.com/induspickles/?pos=9&kwd=pickle&tags=A||||9289.285|Price|product|||MDC|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Visakhapatnam
+  Product_id: 2855853391633
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/2/492166341/XY/XU/GX/241606762/cauliflower-pickle-250x250.jpeg
+--------------------------------------------------
+Product 10:
+  Name: Lime Chilli Pickle
+  Product_url: https://www.indiamart.com/proddetail/lime-chilli-pickle-7314183948.html?pos=10&kwd=pickle&tags=A||||8254.437|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4|r=4
+  Price: 120/PIECE
+  Supplier: Patidar Agro & Food Products
+  Supplier_url: https://www.patidaragro.co.in/?pos=10&kwd=pickle&tags=A||||8254.437|Price|product|||TS|rsf:gd-|-res:RC4|ktp:N0|mtp:G|grpfl:74|wc:1|qr_nm:gd|cs:12680|com-cf:nl|ptrs:na|mc:20899|cat:12|qry_typ:P|lang:en|flavl:0-10|rtn:3-0-0-0-2-5-0|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Dehgam
+  Rating: 4.4
+  Product_id: 7314183948
+  Image_url: https://5.imimg.com/data5/SA/XO/NA/SELLER-2055336/lime-chilli-pickle-250x250.jpg
+--------------------------------------------------
+Product 11:
+  Name: Gunda Pickles lesuwa pickle
+  Product_url: https://www.indiamart.com/proddetail/gunda-pickles-lesuwa-pickle-2855102984433.html?pos=11&kwd=pickle&tags=A||||8404.165|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4|r=4
+  Price: 95/Bottle
+  Supplier: M/S Agarwal Foods
+  Supplier_url: https://www.agarwalfoods.net/?pos=11&kwd=pickle&tags=A||||8404.165|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Nagaur
+  Rating: 4.5
+  Product_id: 2855102984433
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/10/460205183/KK/HD/PH/44307765/gunda-pickles-lesuwa-pickle-250x250.jpeg
+--------------------------------------------------
+Product 12:
+  Name: Spicy Nagaurwala Gunda Pickles, Packaging Type: Jar, 200g
+  Product_url: https://www.indiamart.com/proddetail/nagaurwala-gunda-pickles-2852516237397.html?pos=12&kwd=pickle&tags=A||||8404.165|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4|r=3
+  Price: 120/Pack
+  Supplier: Shree Nakoda Agency
+  Supplier_url: https://www.indiamart.com/shree-nakoda-agency-nagaur/?pos=12&kwd=pickle&tags=A||||8404.165|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Nagaur
+  Rating: 3.6
+  Product_id: 2852516237397
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2023/9/347345614/HF/JK/TU/61589306/new-product-250x250.jpeg
+--------------------------------------------------
+Product 13:
+  Name: Spicy Lemon Pickle, Packaging Size: 500 g
+  Product_url: https://www.indiamart.com/proddetail/spicy-lemon-pickle-2855848798955.html?pos=13&kwd=pickle&tags=A||||9007.794|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4
+  Price: 179/Bottle
+  Supplier: G&N Associates
+  Supplier_url: https://www.indiamart.com/g-nassociates/?pos=13&kwd=pickle&tags=A||||9007.794|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Almora
+  Product_id: 2855848798955
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/2/491747215/QP/TI/NN/239460392/spicy-lemon-pickle-250x250.png
+--------------------------------------------------
+Product 14:
+  Name: 200 G RKCLS Dry Mango Pickle
+  Product_url: https://www.indiamart.com/proddetail/200-g-rkcls-dry-mango-pickle-2855862868355.html?pos=14&kwd=pickle&tags=A||||9301.656|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4|r=5
+  Price: 50/Kg
+  Supplier: Ram Khelawan Ramchhedi Lal Foods
+  Supplier_url: https://www.indiamart.com/ramkhelawan-ramchhedi-lalfoods/?pos=14&kwd=pickle&tags=A||||9301.656|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Varanasi
+  Rating: 5
+  Product_id: 2855862868355
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/3/492539244/VT/JZ/AG/35694483/1-kg-rkcls-mango-pickle-250x250.jpeg
+--------------------------------------------------
+Product 15:
+  Name: Roast Chilli Pickle, Packaging Size: 500 g
+  Product_url: https://www.indiamart.com/proddetail/roast-chilli-pickle-2856283181748.html?pos=15&kwd=pickle&tags=A||||8661.64|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4|r=5
+  Price: 200/Gram
+  Supplier: Vishal Oil Mill
+  Supplier_url: https://www.indiamart.com/vishaloil-mill/?pos=15&kwd=pickle&tags=A||||8661.64|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Pathankot
+  Rating: 5
+  Product_id: 2856283181748
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/3/498703539/NI/GF/XW/12631974/roast-chilli-pickle-250x250.jpeg
+--------------------------------------------------
+Product 16:
+  Name: Spicy 250gm Vishal Karela Pickles, Packaging Type: Jar
+  Product_url: https://www.indiamart.com/proddetail/250gm-vishal-karela-pickles-2856260979733.html?pos=16&kwd=pickle&tags=A||||8307.81|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4
+  Price: 60/Bottle
+  Supplier: Vishal Food Product
+  Supplier_url: https://www.indiamart.com/vishalfoodproduct/?pos=16&kwd=pickle&tags=A||||8307.81|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Pune
+  Product_id: 2856260979733
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/3/498092723/KR/VO/DR/243045206/product-jpeg-250x250.jpeg
+--------------------------------------------------
+Product 17:
+  Name: Guruji Vegetable Pickle, Packaging Type: Loose
+  Product_url: https://www.indiamart.com/proddetail/guruji-vegetable-pickle-21437804430.html?pos=17&kwd=pickle&tags=A||||8692.544|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4|r=3
+  Price: 60/Kg
+  Supplier: Guruji Pickles And Masala Udyog
+  Supplier_url: https://www.indiamart.com/gurujipicklesmasalaudyog/?pos=17&kwd=pickle&tags=A||||8692.544|Price|product|||MDC|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Alwar
+  Rating: 3.7
+  Product_id: 21437804430
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/2/488688465/CS/TY/CD/47894062/vegetable-pickle-250x250.jpg
+--------------------------------------------------
+Product 18:
+  Name: Organic Lemon Pickle, Packaging Type: Jar
+  Product_url: https://www.indiamart.com/proddetail/organic-lemon-pickle-24288865191.html?pos=18&kwd=pickle&tags=A||||8706.587|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4|r=4
+  Price: 50/Jar
+  Supplier: Madurai Meenakshi Appalam
+  Supplier_url: https://www.maduraimeenakshiappalammanufacturers.com/?pos=18&kwd=pickle&tags=A||||8706.587|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Madurai
+  Rating: 4.3
+  Product_id: 24288865191
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/11/465214672/VA/UZ/CN/2056452/organic-lemon-pickle-250x250.jpeg
+--------------------------------------------------
+Product 19:
+  Name: 300g Tomato Pickle
+  Product_url: https://www.indiamart.com/proddetail/300g-tomato-pickle-2854857287891.html?pos=19&kwd=pickle&tags=A||||8687.614|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4|r=4
+  Price: 95
+  Supplier: Mommy Foods
+  Supplier_url: https://www.mommyfood.co.in/?pos=19&kwd=pickle&tags=A||||8687.614|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: Hosur
+  Rating: 4.7
+  Product_id: 2854857287891
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2024/9/449623604/UM/AM/FS/5566596/300g-tomato-pickle-250x250.jpg
+--------------------------------------------------
+Product 20:
+  Name: 500gm Diamond's Mango Pickle
+  Product_url: https://www.indiamart.com/proddetail/500gm-diamond-s-mango-pickle-5764483912.html?pos=20&kwd=pickle&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4|r=4
+  Price: 120s
+  Supplier: Shamsons Foods
+  Supplier_url: https://www.shamsonsfoods.in/?pos=20&kwd=pickle&tags=A||||8752.144|Price|product|||TS|rsf:gd-|-qr_nm:gd|cs:11195|res:RC4|com-cf:nl|ptrs:na|ktp:N0|mc:20899|cat:12|mtp:G|qry_typ:P|lang:en|wc:1|rtn:2-0-0-0-2-4-2|qrd:250414|mrd:250402|prdt:250414|v=4
+  Location: New Delhi
+  Rating: 4.1
+  Product_id: 5764483912
+  Image_url: https://5.imimg.com/data5/SELLER/Default/2025/1/481807132/RH/RF/PR/122566/mango-pickle-250x250.png
+--------------------------------------------------
